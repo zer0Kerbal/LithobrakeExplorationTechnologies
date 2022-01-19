@@ -1,6 +1,6 @@
 # Lithobrake Exploration Technologies 
 
-NecroBones
+originally by @NecroBones
 
 ## Parts Pack
 
