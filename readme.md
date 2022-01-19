@@ -6,8 +6,8 @@ NecroBones
 
 - [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/117527-*)
 - [Github](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-- [spacedock](https://spacedock.info/mod/93)
-- [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/lithobrakeexplorationtechnologies)
+- [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/lithobrakeexplorationtechnologies)
+- [SpaceDock](https://spacedock.info/mod/93)
 - CKAN: `LithobrakeExplorationTechnologies`
 
 A parts pack that is focused on exploring other worlds, and returning safely to Kerbin. The emphasis is on surface exploration, particularly with large rockets and large landers. This pack includes:
