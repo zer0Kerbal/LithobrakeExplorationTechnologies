@@ -1,0 +1,9 @@
+0.2 (2015-08-03) - Wide Alpha
+ - Added 3 large parachutes: 1.25m & 2.5m stackable nose cones, and a large radial chute.
+ - Added 4-man, 2.5m capsule-style command pod.
+ - Added landing lights to the landing legs.
+ - Fixed a collider issue with the Expanded 2.5m service bay that prevented use of the floor's attachment node.
+
+0.1 (2015-07-08) - Initial Alpha
+ - First release. 
+
