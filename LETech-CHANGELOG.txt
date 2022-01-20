@@ -1,3 +1,8 @@
+0.4 (2016-10-12) - KSP 1.2 Update.
+ - Updated categories for many parts.
+ - Added KSP 1.2 sound effects and additional variables for landing legs.
+ - Added transmitter modules to command pods.
+
 0.3.6 (2016-07-12) - Tweaks.
  - Added an optional experimental config for RealChute integration (for the radial chute only). 
     - To enable, rename "GameData/LETech/Patches/LETech_RealChute.txt" to have "cfg" instead of "txt".
