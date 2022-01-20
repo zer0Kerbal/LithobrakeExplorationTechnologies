@@ -1,4 +1,8 @@
 
+0.3.2 (2016-03-29) - KSP 1.1 Hotfix
+ - Landing legs updated to not be 100% deadly. Suspension still doesn't work, legs are rigid for now.
+ - Moved MM configs to "Patches" folder.
+
 0.3.1 (2016-01-11) - Tweaks.
  - X3 lander can mass increased.
  - Mass, fuel capacity, and cost increased for the "large" variant of the lander cargo bay.
