@@ -58,161 +58,160 @@ labels:
 
   - name: help wanted
     color: 008672
-    description: assistance, help, input solicited
-    
-    - name: semantic: release
+    description: "assistance, help, input solicited"
+
+  - name: "semantic: release"
     color: 00FF00
     description: release
 
-  - name: semantic: prerelease
+  - name: "semantic: prerelease"
     color: 00FF00
     description: prerelase
 
-  - name: semantic: beta
+  - name: "semantic: beta"
     color: 00FF00
     description: beta
 
-  - name: semantic: alpha
+  - name: "semantic: alpha"
     color: 00FF00
     description: alpha
 
-  - name: type: localization
+  - name: "type: localization"
     color: FFFFF0
     description: related to localization and translations
 
-  - name: issue: text
+  - name: "issue: text"
     color: FBCA04
     description: issue type
 
-  - name: issue: compatibility/patch
+  - name: "issue: compatibility/patch"
     color: CC0DEB
     description: issue type
 
-  - name: issue: model 
+  - name: "issue: model"
     color: FBCA04
     description: issue type
 
-  - name: issue: texture
+  - name: "issue: texture"
     color: FBCA04
     description: issue type
 
-  - name: issue: sound
+  - name: "issue: sound"
     color: FBCA04
     description: issue type
 
-  - name: issue: config
+  - name: "issue: config"
     color: FBCA04
     description: issue type
 
-  - name: issue: code
+  - name: "issue: code"
     color: FBCA04
     description: issue type
 
-  - name: issue: documentation
+  - name: "issue: documentation"
     color: FBCA04
     description: issue type
 
-  - name: issue: relationships
+  - name: "issue: relationship"
     color: FBCA04
     description: issue type
 
-  - name: issue: license
+  - name: "issue: license"
     color: FBCA04
     description: issue type
 
-  - name: issue: install
+  - name: "issue: install"
     color: FBCA04
     description: issue type
 
-  - name: issue: 
+  - name: "issue: other"
     color: FBCA04
     description: issue type
 
-  - name: work: choatic
+  - name: "work: choatic"
     color: FBCA04
     description: The situation is chaotic, novel practices used.
 
-  - name: work: complex
+  - name: "work: complex"
     color: d4c5f9
     description: The situation is complex, emergent practices used.
 
-  - name: work: complicated
+  - name: "work: complicated"
     color: ffb8c6
     description: The situation is complicated, good practices used.
 
-  - name: work: obvious
+  - name: "work: obvious"
     color: 91ca55
     description: The situation is obvious, best practices used.
     
-  - name: type: fix
+  - name: "type: fix"
     color: 91ca55
     description: Iterations on existing features or infrastructure.
     
-  - name: type: testing
+  - name: "type: testing"
     color: fbca04
     description: Related to testing.
     
-  - name: type: chore
+  - name: "type: chore"
     color: fef2c0
     description: Converting measurements, reorganizing folder structure, and other necessary (but less impactful) tasks.
     
-  - name: type: discussion
+  - name: "type: discussion"
     color: d4c5f9
     description: Questions, queries, posers, proposals and info that requires discussion.
     
-  - name: type: docs
+  - name: "type: docs"
     color: fef2c0
     description: Related to documentation and information.
 
-  - name: type: feature
+  - name: "type: feature"
     color: 5ebeff
     description: Brand new functionality, features, pages, workflows, endpoints, etc.
 
-  - name: type: request
+  - name: "type: request"
     color: 5ebeff
     description: Brand new functionality, features, pages, workflows, endpoints, etc.
 
-  - name: type: fix
+  - name: "type: fix"
     color: 91ca55
     description: Iterations on existing features or infrastructure.
 
-  - name: state: approved
+  - name: "state: approved"
     color: 91ca55
     description: Approved to proceed.
 
-  - name: state: blocked
+  - name: "state: blocked"
     color: d73a4a
     description: Something is blocking action.
 
-  - name: state: pending
+  - name: "state: pending"
     color: fbca04
     description: Taking action, but need a few things to happen first. A feature that needs dependencies merged, or a bug that needs further data.
 
-  - name: state: inactive
+  - name: "state: inactive"
     color: e6e6e6
     description: No action needed or possible. The issue is either fixed, addressed better by other issues, or just out of product scope.
 
-  - name: state: planning
+  - name: "state: planning"
     color: FFFF00
     description: 
 
-  - name: state: inactive
+  - name: "state: inactive"
     color: e6e6e6
     description: No action needed or possible. The issue is either fixed, addressed better by other issues, or just out of product scope.
 
-  - name: type: upstream
+  - name: "type: upstream"
     color: FFFFF0
     description: upstream or side stream
 
-  - name: type: archive
+  - name: "type: archive"
     color: FFFFF0
     description: archive
 
   - name: bug
     color: CC0000
-    new_name: type: type: bug
+    new_name: "type: type: bug"
     description: An issue with the system 🐛. Something isn't working... KSC... we have an error code
-
   
     # Provide a new name to rename an existing label
     #new_name: first-timers-only
