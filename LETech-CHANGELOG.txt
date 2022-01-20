@@ -1,3 +1,11 @@
+0.3 (2015-11-11) - KSP 1.0.5 update.
+ - Switched the 4-man capsule's "generic" IVA over to use the Mk3 shuttle's IVA instead, so that all 4 Kerbals are EVA/IVA selectable.
+ - Moved "CHANGELOG" to the mod's directory.
+ - Updated bays to use current cargo bay thermal stats and allow door deployment limit.
+ - Parachutes now use new contract constraints.
+ - Command pods use new maxTemp and slinMaxTemp values.
+ - 4-man capsule uses new buoyancy settings.
+
 0.2.1 (2015-08-05) - Alpha fixes.
  - Fixed a texture problem that resulted in the 1m and 2m fixed ladders not loading textures.
  - Fixed a scaling error with the "large" octagonal bay's doors, causing it to leave gaps when closed.
