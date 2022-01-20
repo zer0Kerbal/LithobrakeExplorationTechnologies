@@ -1,3 +1,11 @@
+0.2.1 (2015-08-05) - Alpha fixes.
+ - Fixed a texture problem that resulted in the 1m and 2m fixed ladders not loading textures.
+ - Fixed a scaling error with the "large" octagonal bay's doors, causing it to leave gaps when closed.
+ - Radial parachute's storage case reduced in size by 15%.
+ - Increased deployed-drag multiplier on all parachutes.
+ - Added Connected Living Space support.
+ - Added TweakScale support.
+
 0.2 (2015-08-03) - Wide Alpha
  - Added 3 large parachutes: 1.25m & 2.5m stackable nose cones, and a large radial chute.
  - Added 4-man, 2.5m capsule-style command pod.

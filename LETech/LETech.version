@@ -1,11 +1,11 @@
 {
 	"NAME": "Lithobrake Exploration Technologies",
 	"URL": "http://ksp.necrobones.com/files/LETech/LETech.version",
-	"DOWNLOAD": "http://ksp.necrobones.com/files/LETech/",
+	"DOWNLOAD": "https://kerbalstuff.com/mod/1052/Lithobrake%20Exploration%20Technologies",
 	"VERSION": {
 		"MAJOR": 0,
 		"MINOR": 2,
-		"PATCH": 0
+		"PATCH": 1
 	},
 	"KSP_VERSION_MIN": {
 		"MAJOR": 1,
