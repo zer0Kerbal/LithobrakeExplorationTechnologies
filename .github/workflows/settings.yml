@@ -1,7 +1,7 @@
 # These settings are synced to GitHub by https://probot.github.io/apps/settings/
 
   # A comma-separated list of topics to set on the repository
-  topics: kerbal, kerbalspaceprogram, ksp, ksp-mods, ksp-parts, kerbal-space, kerbal-space-program, kerbal-mods, ckan, curseforge, spacedock, zer0Kerbal, zedk
+  topics: litho, lithbrake, exploration, ladder, lander, leg, garage, rover, necrobones, kerbal, kerbalspaceprogram, ksp, ksp-mods, ksp-parts, kerbal-space, kerbal-space-program, kerbal-mods, ckan, curseforge, spacedock, zer0Kerbal, zedk
   
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
