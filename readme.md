@@ -22,6 +22,10 @@ A parts pack that is focused on exploring other worlds, and returning safely to 
 
 ![HeroLogo_1920x1920](https://user-images.githubusercontent.com/39887717/150074758-a5a16d3a-1db4-419f-8ea6-d5bb3828a8b2.png)
 
+### IMPORTANT NOTE:
+
+This mod requires ModuleManager and the Firespitter Core to be installed. 
+
 **Part of the NecroBones suite of mods, that work nicely together:**
 
 * [Modular Rocket Systems](http://spacedock.info/mod/86) (stock-alike parts pack, NASA-like alternatives, and filling the gaps) (Also: [LITE version](http://spacedock.info/mod/87/Modular%20Rocket%20Systems%20LITE))
