@@ -1,8 +1,13 @@
+// RealChute.cfg 1.0.1.0
+// Lithobrake Exploration Technologies (LET)
+// created: 05 Aug 2015
+// updated: 19 Jan 2022
+
 //-----------NEVER MAKE A REALCHUTE PhysicsSignificance = 1!!! Not that anyone would ever do that. :)
 
 // Experimental config originally provided by Deimos Rast
 
-@PART[LETchuteR1]:NEEDS[RealChute]
+@PART[LETchuteR1]:NEEDS[RealChute]:FOR[LithobrakeExplorationTechnologies]
 {
 
 	maximum_drag = 0.32 //--------------------Not sure why they do this
@@ -126,3 +131,6 @@
 	}
 }
 
+
+// CC BY-NC-SA 4.0
+// NecroBones and zer0Kerbal

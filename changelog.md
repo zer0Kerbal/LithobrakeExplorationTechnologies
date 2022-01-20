@@ -1,3 +1,15 @@
+# Version 0.5.0.0 - adoption
+
+- 20 Jan 2022
+- For Kerbal Space Program 1.12.3
+
+## Update patches
+
+- rename
+- add header
+- add footer
+- add :NEEDS
+- add :FOR
 
 # Version 0.4.0.0 (2016-10-12) - KSP 1.2 Update.
 * Updated categories for many parts.
