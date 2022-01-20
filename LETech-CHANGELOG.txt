@@ -1,3 +1,12 @@
+0.3.5 (2016-04-22) - Transparency fix.
+ - Fixed the "always transparent" problem for bays in the VAB.
+ - Adjusted the "expanded" 2.5m bay to use transparency only on the doors.
+
+0.3.4 (2016-04-17) - Tweaks.
+ - Tweaked leg settings.
+ - Moved leg wheel colliders to allow for more accurate aerodynamic occlusion.
+ - Legs reduced in mass quite a bit.
+
 0.3.3 (2016-04-01) - KSP 1.1 Hotfix
  - Landing leg suspension systems working again. Known issue: Feet float slightly.
  - Added search tags to parts.
