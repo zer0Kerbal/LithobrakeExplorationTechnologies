@@ -1,3 +1,11 @@
+0.3.4 (2016-04-17) - Tweaks.
+ - Tweaked leg settings.
+ - Moved leg wheel colliders to allow for more accurate aerodynamic occlusion.
+ - Legs reduced in mass quite a bit.
+
+0.3.3 (2016-04-01) - KSP 1.1 Hotfix
+ - Landing leg suspension systems working again. Known issue: Feet float slightly.
+ - Added search tags to parts.
 
 0.3.2 (2016-03-29) - KSP 1.1 Hotfix
  - Landing legs updated to not be 100% deadly. Suspension still doesn't work, legs are rigid for now.
