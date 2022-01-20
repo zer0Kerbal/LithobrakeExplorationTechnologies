@@ -1,0 +1,128 @@
+//-----------NEVER MAKE A REALCHUTE PhysicsSignificance = 1!!! Not that anyone would ever do that. :)
+
+// Experimental config originally provided by Deimos Rast
+
+@PART[LETchuteR1]:NEEDS[RealChute]
+{
+
+	maximum_drag = 0.32 //--------------------Not sure why they do this
+	@category = none //--------------------Not sure why they do this
+	@cost = 1600 //--------------------This is mainly important for the procedural portion, if you're resizing it; we're not
+	@mass = 0.75 //----------------Your mass here (this is important later)
+
+
+	!sound_parachute_open //---------Deletes sounds; adds its own later
+	!sound_parachute_single //---------Deletes sounds; adds its own later
+
+	!MODULE[ModuleParachute]{} //---------Destroy stock parachute Module; adds Realchute Module
+
+	MODULE
+	{
+		name = RealChuteModule
+		caseMass = 0.75 //--------------Your mass here (this is why we had it set again above)
+		timer = 0 //------------------I think this is a delay to open; I've only ever seen a zero here
+		mustGoDown = false //-------------I like this as true, but it defaults as false; makes it so the chute only deploys when your "falling" e.g. going down
+		cutSpeed = 0.5 //------------How fast the chute gets cut I guess; always 0.5 I believe
+		spareChutes = 5 //----------------RealChutes come with Spares! Engineers (configurable) in Career, or everyone in other modes, can repack a "spent" Parachute, using a spare, and it's good as new. Note: RealChutes also get the "Disarm" option, in addition to "Cut" and "Deploy"
+		PARACHUTE
+		{
+		//ParachuteType = Drogue // if you wanted to make a Drogue, you could add this; I believe it's mainly for the RealChute editor calculations - not strictly necessary; only included for instructional purposes
+			material = Nylon //---------------What the Chute is made out of. Different materials have different thermal, toughness factors, and more importantly drag coefficients. Can make your own; included are Silk, Nylon (default for Main) or Kevlar (default for Drogue)
+			preDeployedDiameter = 2.8 //-----how big the Chute will be during the predeployment phase
+			deployedDiameter = 68 // same as previous, but for deployment phase
+			minIsPressure = true // false; does the predeployment phase minimum to open correspond to pressure a la stock?
+			minPressure = 0.01 // if the above is true, what is the minimum pressure required to open the chute?
+		//minDeployment = 35000 // if minIsPressure = false, then get rid of minPressure entirely, and use minDeployment instead, which is the minimum altitude for the chute for predeployment.
+			deploymentAlt = 1000 // default deployment altitude
+			cutAlt = -1 // default altitude the parachute is auto cut at; -1 means ground contact basically. If you have a double chute, you can set it so the first chute gets cut at the same height as the second chute opens for example (RealChute has a chute like this included)
+			preDeploymentSpeed = 2 // speed at which chute opens during predeployment; might be useful to tweak if you want to reduce abruptness of opening
+			deploymentSpeed = 6 // same as above
+			preDeploymentAnimation = chuteSemiDeploy //---you already know this stuff; it's the same as what it is on the chute you're converting
+			deploymentAnimation = chuteFullyDeploy //---you already know this stuff; it's the same as what it is on the chute you're converting
+			parachuteName = canopy //---you already know this stuff; it's the same as what it is on the chute you're converting
+			capName = cap //---you already know this stuff; it's the same as what it is on the chute you're converting
+		}
+	}
+
+	MODULE
+	{
+		name = ProceduralChute //----This is what allows you to edit the parachute with the RealChute editor in the VAB/SPH
+		textureLibrary = StockReplacement
+		currentCanopies = Main chute // other option that I know of is "Drogue chute"
+	}
+	//-----RealChute's ProceduralChute module allows you to resize and reshape parachutes with its editor, if the module looks something like below. For basic editor functionality, you only need the above version.
+	MODULE
+	{
+		name = ProceduralChute
+		textureLibrary = RealChute
+		type = Radial
+		currentCase = Main
+		currentCanopies = Main chute
+
+		SIZE
+		{
+			size = 1, 1, 1 //-----------Size of the Parachute; presumably 1 corresponds to "normal"
+			sizeID = Radial 2
+			caseMass = 0.75 //----------This is why we set the mass again above, in make sure it was this number
+			cost = 1600 // 300 //----------This is why we set the cost again above, in make sure it was this number
+		}
+
+		SIZE
+		{
+			size = 1.5, 1.5, 1.5 //----------- 1.5x Size
+			sizeID = Radial 3
+			caseMass = 1.5 //---------2x the mass
+			cost = 1280 // 250 //----was originally ~80% the cost of Full Size (300); Bigger Size Costs Less?
+		}
+
+		SIZE
+		{
+			size = 0.5, 0.5, 0.5 //----Half Size
+			sizeID = Radial 1
+			caseMass = 0.375 //---------0.5 the mass
+			cost = 1920 // 350 //----was originally ~117% the cost of Full Size (300); Smaller Size Costs More?
+		}
+	}
+
+
+	EFFECTS //----------RealChute has its own sound library, which replaces the stock sound FX (remember it deleting the stock FX in the beginning)
+	{
+		rcpredeploy
+		{
+			AUDIO
+			{
+				channel = Ship
+				clip = sound_parachute_open
+				volume = 1
+			}
+		}
+		rcdeploy
+		{
+			AUDIO
+			{
+				channel = Ship
+				clip = sound_parachute_single
+				volume = 1
+			}
+		}
+		rccut
+		{
+			AUDIO
+			{
+				channel = Ship
+				clip = RealChute/Sounds/sound_parachute_cut
+				volume = 1
+			}
+		}
+		rcrepack
+		{
+			AUDIO
+			{
+				channel = Ship
+				clip = RealChute/Sounds/sound_parachute_repack
+				volume = 1
+			}
+		}
+	}
+}
+
