@@ -1,4 +1,4 @@
-# settings.yml 1.0.1.0
+# settings.yml 1.0.2.0
 # CC BY-NC-ND 3.0 Upported
 # zer0Kerbal
 # created 01 Jan 2022
@@ -18,7 +18,7 @@ repository:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/117527-*
   
   # A comma-separated list of topics to set on the repository
-  topics: litho, lithbrake, exploration, ladder, lander, leg, garage, rover, necrobones, kerbal, kerbalspaceprogram, ksp, ksp-mods, ksp-parts, kerbal-space, kerbal-space-program, kerbal-mods, ckan, curseforge, spacedock, zer0Kerbal, zedk
+  topics: lithobrake, exploration, ladder, lander, leg, garage, rover, necrobones, kerbal, kerbalspaceprogram, ksp, ksp-mods, ksp-parts, kerbal-space, kerbal-space-program, kerbal-mods, zedk
   
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
@@ -181,6 +181,14 @@ labels:
     color: 91ca55
     description: Iterations on existing features or infrastructure.
 
+  - name: "type: infrastructure"
+    color: ffdda8
+    description: improvements or additions to project infrastructure
+   
+  - name: "type: automation"
+    color: fbca04
+    description: issues for automation actions
+    
   - name: "state: approved"
     color: 91ca55
     description: Approved to proceed.
