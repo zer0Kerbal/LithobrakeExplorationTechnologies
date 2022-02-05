@@ -1,8 +1,8 @@
-# settings.yml 1.0.2.0
-# CC BY-NC-ND 3.0 Upported
+# settings.yml 1.0.7.0
+# CC BY-NC-ND 3.0 Unported
 # zer0Kerbal
 # created 01 Jan 2022
-# updated 19 Jan 2022
+# updated 04 Feb 2022
 # These settings are synced to GitHub by https://probot.github.io/apps/settings/
 
 repository:
@@ -16,7 +16,7 @@ repository:
 
   # A URL with more information about the repository
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/117527-*
-  
+
   # A comma-separated list of topics to set on the repository
   topics: lithobrake, exploration, ladder, lander, leg, garage, rover, necrobones, kerbal, kerbalspaceprogram, ksp, ksp-mods, ksp-parts, kerbal-space, kerbal-space-program, kerbal-mods, zedk
   
@@ -56,14 +56,26 @@ repository:
 
 # Labels: define labels for Issues and Pull Requests
 labels:
+
+# ### Generic
+  - name: bug
+    color: CC0000
+    description: An issue with the system 🐛. Something isn't working... KSC... we have an error code
+
+  - name: "help wanted"
+    color: 008672
+    description: "assistance, help, input solicited"
+
+  - name: duplicate
+    color: FFFFF0
+    description: "duplicated issue - it happens"
+
+# ### SEMANTIC
   - name: adoption
+    new-name: "semantic: adoption"
     # If including a `#`, make sure to wrap it with quotes!
     color: BADA55
     description: relating to adoption
-
-  - name: help wanted
-    color: 008672
-    description: "assistance, help, input solicited"
 
   - name: "semantic: release"
     color: 00FF00
@@ -81,10 +93,7 @@ labels:
     color: 00FF00
     description: alpha
 
-  - name: "type: localization"
-    color: FFFFF0
-    description: related to localization and translations
-
+# #### ISSUES
   - name: "issue: text"
     color: FBCA04
     description: issue type
@@ -133,6 +142,65 @@ labels:
     color: FBCA04
     description: issue type
 
+#### type:
+  - name: localization
+    new-name: "type: localization"
+    color: FFFFF0
+    description: related to localization and translations
+
+  - name: "type: infrastructure"
+    color: ffdda8
+    description: improvements or additions to project infrastructure
+
+  - name: "type: automation"
+    color: fbca04
+    description: issues for automation actions
+
+  - name: "type: fix"
+    color: 91ca55
+    description: Iterations on existing features or infrastructure.
+
+  - name: "type: testing"
+    color: fbca04
+    description: Related to testing.
+
+  - name: "type: chore"
+    color: fef2c0
+    description: Converting measurements, reorganizing folder structure, and other necessary (but less impactful) tasks.
+
+  - name: discussion
+    new-name: "type: discussion"
+    color: d4c5f9
+    description: Questions, queries, posers, proposals and info that requires discussion.
+
+  - name: "type: docs"
+    color: fef2c0
+    description: Related to documentation and information.
+
+  - name: "Mod-feature"
+    new-name: "type: feature"
+    description: Brand new functionality, features, pages, workflows, endpoints, etc.
+
+  - name: "Mod-request"
+    new-name: "type: request"
+    color: 5ebeff
+    description: Requested functionality, features, pages, workflows, endpoints, etc.
+
+  - name: "type: archive"
+    color: FFFFF0
+    description: archive
+
+  - name: "upstream"
+    new-name: "type: upstream"
+    color: FFFFF0
+    description: upstream or side stream
+
+  - name: "pull request"
+    new-name: "type: pull request"
+    color: FFFFF0
+    description: upstream or side stream
+
+# #### WORK:
   - name: "work: choatic"
     color: FBCA04
     description: The situation is chaotic, novel practices used.
@@ -148,47 +216,8 @@ labels:
   - name: "work: obvious"
     color: 91ca55
     description: The situation is obvious, best practices used.
-    
-  - name: "type: fix"
-    color: 91ca55
-    description: Iterations on existing features or infrastructure.
-    
-  - name: "type: testing"
-    color: fbca04
-    description: Related to testing.
-    
-  - name: "type: chore"
-    color: fef2c0
-    description: Converting measurements, reorganizing folder structure, and other necessary (but less impactful) tasks.
-    
-  - name: "type: discussion"
-    color: d4c5f9
-    description: Questions, queries, posers, proposals and info that requires discussion.
-    
-  - name: "type: docs"
-    color: fef2c0
-    description: Related to documentation and information.
 
-  - name: "type: feature"
-    color: 5ebeff
-    description: Brand new functionality, features, pages, workflows, endpoints, etc.
-
-  - name: "type: request"
-    color: 5ebeff
-    description: Brand new functionality, features, pages, workflows, endpoints, etc.
-
-  - name: "type: fix"
-    color: 91ca55
-    description: Iterations on existing features or infrastructure.
-
-  - name: "type: infrastructure"
-    color: ffdda8
-    description: improvements or additions to project infrastructure
-   
-  - name: "type: automation"
-    color: fbca04
-    description: issues for automation actions
-    
+# #### STATE:
   - name: "state: approved"
     color: 91ca55
     description: Approved to proceed.
@@ -207,90 +236,75 @@ labels:
 
   - name: "state: planning"
     color: FFFF00
-    description: 
+    description:
 
   - name: "state: inactive"
     color: e6e6e6
     description: No action needed or possible. The issue is either fixed, addressed better by other issues, or just out of product scope.
 
-  - name: "type: upstream"
-    color: FFFFF0
-    description: upstream or side stream
-
-  - name: "type: archive"
-    color: FFFFF0
-    description: archive
-
-  - name: bug
-    color: CC0000
-    new_name: "type: type: bug"
-    description: An issue with the system 🐛. Something isn't working... KSC... we have an error code
-  
-    # Provide a new name to rename an existing label
-    #new_name: first-timers-only
-
 # Milestones: define milestones for Issues and Pull Requests
-milestones:
-  - title: localization - master
-    description: progress toward total localization
-    state: open
-    
-  - title: localization - English (United States) <en-us.cfg>
-    description: progress toward English (United States) <en-us.cfg> localization
-    state: open
-    
-  - title: localization - German (Deutsch) <de.cfg>
-    description: progress toward German (Deutsch) <de.cfg> localization
-    state: open
-    
-  - title: localization - Spanish (Español) <es-es.cfg>
-    description: progress toward Spanish (Español) <es-es.cfg> localization
-    state: open
-    
-  - title: localization - Mexican (Mexicano) <es-mx.cfg>
-    description: progress toward Mexican (Mexicano) <es-mx.cfg> localization
-    state: open
-    
-  - title: localization - French (Français) <fr-fr.cfg>
-    description: progress toward French (Français) <fr-fr.cfg> localization
-    state: open
-    
-  - title: localization - Italian (Italiano) <it-it.cfg>
-    description: progress toward Italian (Italiano) <it-it.cfg> localization
-    state: open
-    
-  - title: localization - Japanese(日本語) <ja.cfg>
-    description: progress toward Japanese(日本語) <ja.cfg> localization
-    state: open
-    
-  - title: localization - Korean (한국어) <ko.cfg>
-    description: progress toward Korean (한국어) <ko.cfg> localization
-    state: open
-    
-  - title: localization - Dutch (Nederlands) <nl-nl.cfg>
-    description: progress toward Dutch (Nederlands) <nl-nl.cfg> localization
-    state: open
-    
-  - title: localization - Norwegian (Norsk) <no-no.cfg>
-    description: progress toward Norwegian (Norsk) <no-no.cfg> localization
-    state: open
-    
-  - title: localization - Polish (Polski) <pl.cfg>
-    description: progress toward Polish (Polski) <pl.cfg> localization
-    state: open
-    
-  - title: localization - Brazil Portuguese (Português Brasil) <pt-br.cfg>
-    description: progress toward Brazil Portuguese (Português Brasil) <pt-br.cfg> localization
-    state: open
-    
-  - title: localization - Russian (Русский) <ru.cfg>
-    description: progress toward Russian (Русский) <ru.cfg> localization
-    state: open
-    
-  - title: localization - Taiwanese (国语) <zh-tw.cfg>
-    description: progress toward Taiwanese (国语) <zh-tw.cfg> localization
-    state: open
-    
-  - title: localization - Simplified Chinese (简体中文) <zh-cn.cfg>
-    description: progress toward Simplified Chinese (简体中文) <zh-cn.cfg> localization
-    state: open
+# milestones:
+#   - title: localization - master
+#     description: progress toward total localization
+#     state: open
+# 
+#   - title: localization - English (United States) <en-us.cfg>
+#     description: progress toward English (United States) <en-us.cfg> localization
+#     state: open
+# 
+#   - title: localization - German (Deutsch) <de.cfg>
+#     description: progress toward German (Deutsch) <de.cfg> localization
+#     state: open
+# 
+#   - title: localization - Spanish (Español) <es-es.cfg>
+#     description: progress toward Spanish (Español) <es-es.cfg> localization
+#     state: open
+# 
+#   - title: localization - Mexican (Mexicano) <es-mx.cfg>
+#     description: progress toward Mexican (Mexicano) <es-mx.cfg> localization
+#     state: open
+# 
+#   - title: localization - French (Français) <fr-fr.cfg>
+#     description: progress toward French (Français) <fr-fr.cfg> localization
+#     state: open
+# 
+#   - title: localization - Italian (Italiano) <it-it.cfg>
+#     description: progress toward Italian (Italiano) <it-it.cfg> localization
+#     state: open
+# 
+#   - title: localization - Japanese(日本語) <ja.cfg>
+#     description: progress toward Japanese(日本語) <ja.cfg> localization
+#     state: open
+# 
+#   - title: localization - Korean (한국어) <ko.cfg>
+#     description: progress toward Korean (한국어) <ko.cfg> localization
+#     state: open
+# 
+#   - title: localization - Dutch (Nederlands) <nl-nl.cfg>
+#     description: progress toward Dutch (Nederlands) <nl-nl.cfg> localization
+#     state: open
+# 
+#   - title: localization - Norwegian (Norsk) <no-no.cfg>
+#     description: progress toward Norwegian (Norsk) <no-no.cfg> localization
+#     state: open
+# 
+#   - title: localization - Polish (Polski) <pl.cfg>
+#     description: progress toward Polish (Polski) <pl.cfg> localization
+#     state: open
+# 
+#   - title: localization - Brazil Portuguese (Português Brasil) <pt-br.cfg>
+#     description: progress toward Brazil Portuguese (Português Brasil) <pt-br.cfg> localization
+#     state: open
+# 
+#   - title: localization - Russian (Русский) <ru.cfg>
+#     description: progress toward Russian (Русский) <ru.cfg> localization
+#     state: open
+# 
+#   - title: localization - Taiwanese (国语) <zh-tw.cfg>
+#     description: progress toward Taiwanese (国语) <zh-tw.cfg> localization
+#     state: open
+# 
+#   - title: localization - Simplified Chinese (简体中文) <zh-cn.cfg>
+#     state: open
+#     description: progress toward Simplified Chinese (简体中文) <zh-cn.cfg> localization
+# 
