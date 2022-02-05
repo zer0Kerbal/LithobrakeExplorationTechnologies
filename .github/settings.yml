@@ -56,8 +56,6 @@ repository:
 
 # Labels: define labels for Issues and Pull Requests
 labels:
-
-# ### Generic
   - name: bug
     color: CC0000
     description: An issue with the system 🐛. Something isn't working... KSC... we have an error code
@@ -70,10 +68,8 @@ labels:
     color: FFFFF0
     description: "duplicated issue - it happens"
 
-# ### SEMANTIC
   - name: adoption
     new-name: "semantic: adoption"
-    # If including a `#`, make sure to wrap it with quotes!
     color: BADA55
     description: relating to adoption
 
@@ -93,7 +89,6 @@ labels:
     color: 00FF00
     description: alpha
 
-# #### ISSUES
   - name: "issue: text"
     color: FBCA04
     description: issue type
@@ -142,7 +137,6 @@ labels:
     color: FBCA04
     description: issue type
 
-#### type:
   - name: localization
     new-name: "type: localization"
     color: FFFFF0
@@ -200,7 +194,6 @@ labels:
     color: FFFFF0
     description: upstream or side stream
 
-# #### WORK:
   - name: "work: choatic"
     color: FBCA04
     description: The situation is chaotic, novel practices used.
@@ -217,7 +210,6 @@ labels:
     color: 91ca55
     description: The situation is obvious, best practices used.
 
-# #### STATE:
   - name: "state: approved"
     color: 91ca55
     description: Approved to proceed.
@@ -241,70 +233,3 @@ labels:
   - name: "state: inactive"
     color: e6e6e6
     description: No action needed or possible. The issue is either fixed, addressed better by other issues, or just out of product scope.
-
-# Milestones: define milestones for Issues and Pull Requests
-# milestones:
-#   - title: localization - master
-#     description: progress toward total localization
-#     state: open
-# 
-#   - title: localization - English (United States) <en-us.cfg>
-#     description: progress toward English (United States) <en-us.cfg> localization
-#     state: open
-# 
-#   - title: localization - German (Deutsch) <de.cfg>
-#     description: progress toward German (Deutsch) <de.cfg> localization
-#     state: open
-# 
-#   - title: localization - Spanish (Español) <es-es.cfg>
-#     description: progress toward Spanish (Español) <es-es.cfg> localization
-#     state: open
-# 
-#   - title: localization - Mexican (Mexicano) <es-mx.cfg>
-#     description: progress toward Mexican (Mexicano) <es-mx.cfg> localization
-#     state: open
-# 
-#   - title: localization - French (Français) <fr-fr.cfg>
-#     description: progress toward French (Français) <fr-fr.cfg> localization
-#     state: open
-# 
-#   - title: localization - Italian (Italiano) <it-it.cfg>
-#     description: progress toward Italian (Italiano) <it-it.cfg> localization
-#     state: open
-# 
-#   - title: localization - Japanese(日本語) <ja.cfg>
-#     description: progress toward Japanese(日本語) <ja.cfg> localization
-#     state: open
-# 
-#   - title: localization - Korean (한국어) <ko.cfg>
-#     description: progress toward Korean (한국어) <ko.cfg> localization
-#     state: open
-# 
-#   - title: localization - Dutch (Nederlands) <nl-nl.cfg>
-#     description: progress toward Dutch (Nederlands) <nl-nl.cfg> localization
-#     state: open
-# 
-#   - title: localization - Norwegian (Norsk) <no-no.cfg>
-#     description: progress toward Norwegian (Norsk) <no-no.cfg> localization
-#     state: open
-# 
-#   - title: localization - Polish (Polski) <pl.cfg>
-#     description: progress toward Polish (Polski) <pl.cfg> localization
-#     state: open
-# 
-#   - title: localization - Brazil Portuguese (Português Brasil) <pt-br.cfg>
-#     description: progress toward Brazil Portuguese (Português Brasil) <pt-br.cfg> localization
-#     state: open
-# 
-#   - title: localization - Russian (Русский) <ru.cfg>
-#     description: progress toward Russian (Русский) <ru.cfg> localization
-#     state: open
-# 
-#   - title: localization - Taiwanese (国语) <zh-tw.cfg>
-#     description: progress toward Taiwanese (国语) <zh-tw.cfg> localization
-#     state: open
-# 
-#   - title: localization - Simplified Chinese (简体中文) <zh-cn.cfg>
-#     state: open
-#     description: progress toward Simplified Chinese (简体中文) <zh-cn.cfg> localization
-# 
