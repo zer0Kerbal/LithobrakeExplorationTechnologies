@@ -5,30 +5,11 @@
 
 ## Update patches
 
-* rename
-* add header
-* add footer
-* add :NEEDS
-* add :FOR
-
-# Parts Missing Manufacturer
-
-* [LETleg2.cfg]
-* [LETchute1m.cfg]
-* [LETbay2mOct2.cfg]
-* [LETbay2mOct1.cfg]
-* [LETbay2mExp.cfg]
-* create [docs/PartThumbnails.md]
-* closes #82 - Parts Missing Manufacturer
-
-# Parts Missing Manufacturer
-
-* [LETleg2.cfg]
-* [LETchute1m.cfg]
-* [LETbay2mOct2.cfg]
-* [LETbay2mOct1.cfg]
-* [LETbay2mExp.cfg]
-  * closes #82 - Parts Missing Manufacturer
+- rename
+- add header
+- add footer
+- add :NEEDS
+- add :FOR
 
 # Version 0.4.0.0 (2016-10-12) - KSP 1.2 Update.
 * Updated categories for many parts.
