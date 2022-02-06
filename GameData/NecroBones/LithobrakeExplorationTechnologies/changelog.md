@@ -5,53 +5,11 @@
 
 ## Update patches
 
-* rename
-* add header
-* add footer
-* add :NEEDS
-* add :FOR
-
-# Relocated art assets
-
-* move textures and models into Assets/
-* update MODEL paths in part configs
-* updates #60
-* updates #66
-* updates #67
-* updates #68
-* updates #69
-* updates #70
-* updates #71
-* updates #72
-* updates #73
-* updates #74
-* updates #75
-* updates #76
-* updates #77
-* updates #78
-* updates #79
-
-
-# Part Thumbnail Images
-
-* thumbnail images list 
-  * [LETladderF2m.cfg]
-  * [LETladderF1m.cfg]
-  * [LETladderD8m.cfg]
-  * [LETladderD5m.cfg]
-  * [LETchuteR1.cfg]
-  * [LETchute2m.cfg]
-  * [LETchute1m.cfg]
-  * [LETbay2mOct2.cfg]
-  * [LETbay2mOct1.cfg]
-  * [LETbay2mExp.cfg]
-  * [LETpod2m4k.cfg]
-  * [LETlander2mX3.cfg]
-  * [LETleg2.cfg]
-  * [LETleg1.cfg]
-  * [LETladderF3m.cfg]
-* create [docs/PartThumbnails.md]
-* closes #81 - Part Thumbnail Images
+- rename
+- add header
+- add footer
+- add :NEEDS
+- add :FOR
 
 # Parts Missing Manufacturer
 
