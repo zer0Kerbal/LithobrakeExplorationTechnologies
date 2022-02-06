@@ -5,11 +5,42 @@
 
 ## Update patches
 
-- rename
-- add header
-- add footer
-- add :NEEDS
-- add :FOR
+* rename
+* add header
+* add footer
+* add :NEEDS
+* add :FOR
+
+
+# Part Thumbnail Images
+
+* thumbnail images list 
+  * [LETladderF2m.cfg]
+  * [LETladderF1m.cfg]
+  * [LETladderD8m.cfg]
+  * [LETladderD5m.cfg]
+  * [LETchuteR1.cfg]
+  * [LETchute2m.cfg]
+  * [LETchute1m.cfg]
+  * [LETbay2mOct2.cfg]
+  * [LETbay2mOct1.cfg]
+  * [LETbay2mExp.cfg]
+  * [LETpod2m4k.cfg]
+  * [LETlander2mX3.cfg]
+  * [LETleg2.cfg]
+  * [LETleg1.cfg]
+  * [LETladderF3m.cfg]
+* create [docs/PartThumbnails.md]
+* closes #81 - Part Thumbnail Images
+
+# Parts Missing Manufacturer
+
+* [LETleg2.cfg]
+* [LETchute1m.cfg]
+* [LETbay2mOct2.cfg]
+* [LETbay2mOct1.cfg]
+* [LETbay2mExp.cfg]
+  * closes #82 - Parts Missing Manufacturer
 
 # Version 0.4.0.0 (2016-10-12) - KSP 1.2 Update.
 * Updated categories for many parts.
