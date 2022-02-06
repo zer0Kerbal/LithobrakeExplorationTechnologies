@@ -18,7 +18,7 @@ repository:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/117527-*
 
   # A comma-separated list of topics to set on the repository
-  # topics: litho, lithbrake, exploration, ladder, lander, leg, garage, rover, necrobones, kerbal, kerbalspaceprogram, ksp, ksp-mods, ksp-parts, kerbal-space, kerbal-space-program, kerbal-mods, ckan, curseforge, spacedock, zer0Kerbal, zedk
+  topics: litho, lithbrake, exploration, ladder, lander, leg, garage, rover, necrobones, kerbal, kerbalspaceprogram, ksp, ksp-mods, ksp-parts, kerbal-space, kerbal-space-program, kerbal-mods, mods, zedk
   
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
@@ -60,7 +60,7 @@ labels:
     color: CC0000
     description: An issue with the system 🐛. Something isn't working... KSC... we have an error code
 
-  - name: help wanted
+  - name: "help wanted"
     color: 008672
     description: "assistance, help, input solicited"
 
@@ -69,7 +69,7 @@ labels:
     description: "duplicated issue - it happens"
 
   - name: adoption
-    new-name: "semantic: adoption"
+    new_name: "semantic: adoption"
     color: BADA55
     description: relating to adoption
 
@@ -138,7 +138,7 @@ labels:
     description: issue type
 
   - name: localization
-    new-name: "type: localization"
+    new_name: "type: localization"
     color: FFFFF0
     description: related to localization and translations
 
@@ -163,7 +163,7 @@ labels:
     description: Converting measurements, reorganizing folder structure, and other necessary (but less impactful) tasks.
 
   - name: discussion
-    new-name: "type: discussion"
+    new_name: "type: discussion"
     color: d4c5f9
     description: Questions, queries, posers, proposals and info that requires discussion.
 
@@ -172,11 +172,11 @@ labels:
     description: Related to documentation and information.
 
   - name: "Mod-feature"
-    new-name: "type: feature"
+    new_name: "type: feature"
     description: Brand new functionality, features, pages, workflows, endpoints, etc.
 
   - name: "Mod-request"
-    new-name: "type: request"
+    new_name: "type: request"
     color: 5ebeff
     description: Requested functionality, features, pages, workflows, endpoints, etc.
 
@@ -185,12 +185,12 @@ labels:
     description: archive
 
   - name: "upstream"
-    new-name: "type: upstream"
+    new_name: "type: upstream"
     color: FFFFF0
     description: upstream or side stream
 
   - name: "pull request"
-    new-name: "type: pull request"
+    new_name: "type: pull request"
     color: FFFFF0
     description: upstream or side stream
 
