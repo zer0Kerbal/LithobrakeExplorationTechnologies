@@ -11,25 +11,16 @@
 * add :NEEDS
 * add :FOR
 
+# Update texture pointers
+
+* .mbm | .tga | .png -->.dds
+* updates #65 #66, #67 #68 #69 #70 #71 #72 #73 #74 #75 #76 #77 #78 #79
+
 # Relocated art assets
 
 * move textures and models into Assets/
 * update MODEL paths in part configs
-* updates #60
-* updates #66
-* updates #67
-* updates #68
-* updates #69
-* updates #70
-* updates #71
-* updates #72
-* updates #73
-* updates #74
-* updates #75
-* updates #76
-* updates #77
-* updates #78
-* updates #79
+* updates #65 #66, #67 #68 #69 #70 #71 #72 #73 #74 #75 #76 #77 #78 #79
 
 
 # Part Thumbnail Images
