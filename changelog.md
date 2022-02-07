@@ -11,6 +11,37 @@
 * add :NEEDS
 * add :FOR
 
+# Part Localization
+
+* create agency
+* create /Localization/ folder
+  * create [en-us.cfg]
+  * create [quickstart.md]
+  * create [readme.md]
+* Localized parts:
+  * [LETladderF2m.cfg]
+  * [LETladderF1m.cfg]
+  * [LETladderD8m.cfg]
+  * [LETladderD5m.cfg]
+  * [LETchuteR1.cfg]
+  * [LETchute2m.cfg]
+  * [LETchute1m.cfg]
+  * [LETbay2mOct2.cfg]
+  * [LETbay2mOct1.cfg]
+  * [LETbay2mExp.cfg]
+  * [LETpod2m4k.cfg]
+  * [LETlander2mX3.cfg]
+  * [LETleg2.cfg]
+  * [LETleg1.cfg]
+  * [LETladderF3m.cfg]
+* closes #80 - Part Localization
+* closes #24 - Localization - English (United States) <en-us.cfg>
+* updates #6 - Adoption Documentation
+* updates #23 - Localization - Master
+* updates #65 #66, #67 #68 #69 #70 #71 #72 #73 #74 #75 #76 #77 #78 #79
+* updates #86 - Agent update
+
+
 # Update texture pointers
 
 * .mbm | .tga | .png -->.dds
