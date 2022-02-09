@@ -22,22 +22,42 @@ A parts pack that is focused on exploring other worlds, and returning safely to 
 
 <img src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_11_2015/avatar_96x96.gif.787b9a3478ccb83beb330a550f437d88.thumb.gif.5afcf23f2446f3774eeeeca98687261b.gif" alt="NecroBones logo" width="15%" height="15%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/0.5.0.0/img/HeroLogo_1920x1920.png" alt="Texture and Logo work by Blackheart612" width="50%" height="50%">
 
-https://youtu.be/7WDrXsFWVg4
-
 brought to you by _KGEx_
 
 ## Features 
 
-This mod adds two parts
+This mod adds fifteen stockalike parts
 * 3-kerbal Lander Can
+  > <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETlander2mX3_icon.png" alt="LETlander2mX3" style="zoom:50%;" />
 * 4-kerbal Capsule
+  ><img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETpod2m4k_icon.png" alt="LETpod2m4k" style="zoom:50%;" />
 * Two: sets of large landing legs
   * "medium" will handle Mainsails
   * "large" works with Mammoths
-* Three Large radial and stackable parachutes
+	> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETleg1_icon.png" alt="LETleg1" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETleg2_icon.png" alt="LETleg2" style="zoom:50%;" />
+* Three large radial and stackable parachutes
+  > <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETchute1m_icon.png" alt="LETchute1m" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETchute2m_icon.png" alt="LETchute2m" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETchuteR1_icon.png" alt="LETchuteR1" style="zoom:50%;" />
 * Three (1m, 2m and 3m) static ladders
-* Two (5m and 8m) Very long deployable ladders
+  > <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderF1m_icon.png" alt="LETladderF1m" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderF2m_icon.png" alt="LETladderF2m" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderF3m_icon.png" alt="LETladderF3m" style="zoom:50%;" />
+* Two (5m and 8m) very long deployable ladders
+  > <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderD5m_icon.png" alt="LETladderD5m" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderD8m_icon.png" alt="LETladderD8m" style="zoom:50%;" />
 * Three Service bays / rover garages.
+  > <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETbay2mExp_icon.png" alt="LETbay2mExp" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETbay2mOct1_icon.png" alt="LETbay2mOct1" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETbay2mOct2_icon.png" alt="LETbay2mOct2" style="zoom:50%;" />
+
+![LETbay2mExp_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETbay2mExp_icon.png) ![LETbay2mOct1_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETbay2mOct1_icon.png) ![LETbay2mOct2_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETbay2mOct2_icon.png)
+
+![LETchute1m_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETchute1m_icon.png) ![LETchute2m_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETchute2m_icon.png) ![LETchuteR1_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETchuteR1_icon.png)
+
+![LETladderD5m_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderD5m_icon.png) ![LETladderD8m_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderD8m_icon.png) 
+
+![LETladderF1m_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderF1m_icon.png)
+![LETladderF2m_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderF2m_icon.png) ![LETladderF3m_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderF3m_icon.png)
+
+![LETleg1_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETleg1_icon.png) ![LETleg2_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETleg2_icon.png)
+
+<img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\_icon.png" alt="" style="zoom:50%;" />
+![LETlander2mX3_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETlander2mX3_icon.png)
+
 
 [![Kottabos Gaming](https://img.youtube.com/vi/7WDrXsFWVg4/0.jpg)](https://www.youtube.com/watch?v=7WDrXsFWVg4)
 
@@ -46,6 +66,23 @@ This mod adds two parts
   Support on <a href="https://www.patreon.com/Kottabosgames">Patreon.</a>
   <iframe width="1136" height="639" src="https://www.youtube.com/embed/7WDrXsFWVg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
+
+
+### IMPORTANT NOTE:
+
+~~This mod requires ModuleManager and the Firespitter Core to be installed.~~
+
+**Part of the NecroBones suite of mods, that work nicely together:**
+
+* [Modular Rocket Systems](http://spacedock.info/mod/86) (stock-alike parts pack, NASA-like alternatives, and filling the gaps) (Also: [LITE version](http://spacedock.info/mod/87/Modular%20Rocket%20Systems%20LITE))
+* [SpaceY Heavy Lifters Parts Pack](http://spacedock.info/mod/88) (stock-balanced large rocket parts, 5m parts, large SRBs) (Also: [Expanded upgrade](http://spacedock.info/mod/89/SpaceY%20Expanded))
+* [Color Coded Canisters](http://spacedock.info/mod/91) (beautification replacement models/textures for stock tanks, with color-coded end caps, and auto-closing shrouds)
+* [Fuel Tanks Plus](http://spacedock.info/mod/92) (collection of large stock-like tanks with Color Coded Canister style)
+* [ColorFuel Lines](http://spacedock.info/mod/94) (color-selctable fuel lines)
+* [Lithobrake Exploration Technologies](http://spacedock.info/mod/93) (lander parts, large chutes/legs/ladders/etc)
+  
+  [**Image Gallery:**](https://imgur.com/a/FxPp9)
+---
 
 #### Cabin notes  
 >
@@ -107,12 +144,9 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 ### Supports
 
 * [On Demand Fuel Cells (ODFC)][thread:ODFC] [^2]  
-
-* [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/117527-*)
-* [Github](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-* [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/lithobrakeexplorationtechnologies)
-* [SpaceDock](https://spacedock.info/mod/93)
-* CKAN: `LithobrakeExplorationTechnologies`
+* [TweakScale][thread:twk]
+* [Connected Living Spaces][thread:cls]
+* [RealChute][thread:rc]
 
 ---
 
@@ -146,7 +180,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 #### Original (0) - Author: [`NecroBones`/`Orvidius][LINK:necrobones]
 
-> [Thread][MOD:org:thread]  - Download: [Dropbox][MOD:org:download] - Source: [Dropbox][MOD:org:source]
+> [Thread][MOD:org:thread]  - Download: [SpaceDock][MOD:org:download] - Source: [ksp.necrobones.com][MOD:org:source]
 > License: [![License][LIC:org:shd]][LIC:org:url] ![][LIC:org:log]
 
 <!-- mod links -->
@@ -164,9 +198,9 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/json/mod.json
 
 <!--- original mod stuff -->
-[MOD:org:source]: https://www.dropbox.com/s/85og3xdhark7com/LithobrakeExplorationTechnologies5.rar?dl=0 "Dropbox"
-[MOD:org:thread]:https://forum.kerbalspaceprogram.com/index.php?/topic/117527-* "KSP Forum"  
-[MOD:org:download]: https://www.dropbox.com/s/85og3xdhark7com/LithobrakeExplorationTechnologies5.rar?dl=0 "Dropbox"  
+[MOD:org:thread]:https://forum.kerbalspaceprogram.com/index.php?/topic/117527-* "KSP Forum"
+[MOD:org:source]: http://ksp.necrobones.com/files/LETech/LETech-0.4.zip "ksp.necrobones.com"
+[MOD:org:download]: http://spacedock.info/mod/93 "SpaceDock"
 
 [LIC:org:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
 [LIC:org:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
@@ -204,6 +238,9 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [thread:ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-* "On Demand Fuel Cells"
 [thread:mm]:  http://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "Module Manager"
 [thread:ckan]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-* "CKAN"
+[thread:twk]:  "TweakScale"
+[thread:cls]:  "Connected Living Space"
+[thread:rc]:  "RealChute"
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00 "PayPal"
@@ -242,26 +279,3 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [^1]: ***may*** work on other versions (YMMV)
 [^2]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
 [^3]: this isn't a mod. ;P
-
-
-### IMPORTANT NOTE:
-
-This mod requires ModuleManager and the Firespitter Core to be installed. 
-
-**Part of the NecroBones suite of mods, that work nicely together:**
-
-* [Modular Rocket Systems](http://spacedock.info/mod/86) (stock-alike parts pack, NASA-like alternatives, and filling the gaps) (Also: [LITE version](http://spacedock.info/mod/87/Modular%20Rocket%20Systems%20LITE))
-* [SpaceY Heavy Lifters Parts Pack](http://spacedock.info/mod/88) (stock-balanced large rocket parts, 5m parts, large SRBs) (Also: [Expanded upgrade](http://spacedock.info/mod/89/SpaceY%20Expanded))
-* [Color Coded Canisters](http://spacedock.info/mod/91) (beautification replacement models/textures for stock tanks, with color-coded end caps, and auto-closing shrouds)
-* [Fuel Tanks Plus](http://spacedock.info/mod/92) (collection of large stock-like tanks with Color Coded Canister style)
-* [ColorFuel Lines](http://spacedock.info/mod/94) (color-selctable fuel lines)
-* [Lithobrake Exploration Technologies](http://spacedock.info/mod/93) (lander parts, large chutes/legs/ladders/etc)
-  
-  [**Image Gallery:**](https://imgur.com/a/FxPp9)
----
-
-Creative Commons 4.0 Attribution-NonCommercial-ShareAlike
-
-CC BY-NC-SA 4.0
-
-![image](https://user-images.githubusercontent.com/39887717/150074972-8678aabb-8f2f-4396-89d1-2e07a5708873.png)
