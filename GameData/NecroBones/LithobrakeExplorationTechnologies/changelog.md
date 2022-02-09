@@ -5,11 +5,197 @@
 
 ## Update patches
 
-- rename
-- add header
-- add footer
-- add :NEEDS
-- add :FOR
+* rename
+* add header
+* add footer
+* add :NEEDS
+* add :FOR
+
+* [en-us.cfg] Additions
+  * #LETech-door-open = Doors open
+  * #LETech-door-clos = Doors close
+  * #LETech-door-togl = Door toggl
+  * #LETech-light-open = Lights on
+  * #LETech-light-on = Lights off
+  * #LETech-light-off = Lights toggle
+  * updates #24 - Localization - English (United States) <en-us.cfg>
+  * updates #23 - Localization - Master
+
+# Part config updates
+	* updates #65 #66, #67 #68 #69 #70 #71 #72 #73 #74 #75 #76 #77 #78 #79
+* [LETchuteR1.cfg]
+  * Radial Parachute
+  * update tags
+  * Add [preferredStage] = PARACHUTESTAGE
+  * [bulkheadProfiles] removed size1 leaving srf
+  * [ModuleParachute]
+    * Updated [chuteMaxTemp] to 1600 from 650
+    * Added [machHeatMultBase] = 0.5
+    * Added [chuteThermalMassPerArea] = 0.08
+* [LETchute1m.cfg]
+  * Stack Parachute
+  * update tags
+  * Add [preferredStage] = PARACHUTESTAGE
+  * [ModuleParachute]
+    * Updated [chuteMaxTemp] to 1600 from 650
+    * Added [machHeatMultBase] = 0.25
+    * Added [chuteThermalMassPerArea] = 0.09
+* [LETchute2m.cfg]
+  * Stack Parachute
+  * update tags
+  * Add [preferredStage] = PARACHUTESTAGE
+  * [ModuleParachute]
+    * Updated [chuteMaxTemp] to 1600 from 650
+    * Added [machHeatMultBase] = 0.25
+    * Added [chuteThermalMassPerArea] = 0.09
+* [LETladderD5m.cfg]
+  * Telescoping ladder
+  * Add
+    * [emissiveConstant] = 0.08
+    * Add [thermalMassModifier] = 3.0
+* [LETladderD8m.cfg]
+  * Telescoping ladder
+  * Add
+    * [emissiveConstant] = 0.08
+    * Add [thermalMassModifier] = 3.0
+* [LETladderF1m.cfg]
+  * Radial (fixed) ladder
+  * Add
+    * [emissiveConstant] = 0.08
+    * Add [thermalMassModifier] = 3.0
+    * Adjust [maxTemp] from 1900 to 2000
+* [LETladderF2m.cfg]
+  * Radial (fixed) ladder
+  * Add
+    * [emissiveConstant] = 0.08
+    * Add [thermalMassModifier] = 3.0
+    * Adjust [maxTemp] from 1900 to 2000
+* [LETladderF3m.cfg]
+  * Radial (fixed) ladder
+  * Add
+    * [emissiveConstant] = 0.08
+    * Add [thermalMassModifier] = 3.0
+    * Adjust [maxTemp] from 1900 to 2000
+* [LETbay2mOct1.cfg]
+  * Service Bay
+    * Add [emissiveConstant] = 0.04
+    * Add [thermalMassModifier] = 5.0
+    * Adjust [maxTemp] from 2600 to 2900
+    * Add
+      * [ModuleConductionMultiplier]
+      * [modifiedConductionFactor] = 0.001
+      * [convectionFluxThreshold]= 500
+* [LETbay2mOct2.cfg]
+  * Service Bay
+    * Add [emissiveConstant] = 0.04
+    * Add [thermalMassModifier] = 5.0
+    * Adjust [maxTemp] from 2600 to 2900
+    * Add
+      * [ModuleConductionMultiplier]
+      * [modifiedConductionFactor] = 0.001
+      * [convectionFluxThreshold]= 500
+* [LETbay2mExp.cfg]
+  * Service Bay (Rover Garage)
+    * Add [emissiveConstant] = 0.04
+    * Add [thermalMassModifier] = 5.0
+    * Adjust [maxTemp] from 2600 to 2900
+    * Add
+      * [ModuleConductionMultiplier]
+      * [modifiedConductionFactor] = 0.001
+      * [convectionFluxThreshold]= 500
+
+* General Changes
+  * lint pass
+  * formatting pass
+* [LETladderF1m.cfg]
+  * Radial Ladder
+    * [maxTemp] increased to 1900 from 1800
+    * Add [emissiveConstant] = 0.8
+    * Add [thermalMassModifier] = 3
+* [LETladderF2m.cfg]
+  * Radial Ladder
+    * [maxTemp] increased to 2000 from 1900
+    * Add [emissiveConstant] = 0.8
+    * Add [thermalMassModifier] = 3
+* [LETladderF3m.cfg]
+  * Radial Ladder  
+    * [maxTemp] increased to 2000 from 1900
+    * Add [emissiveConstant] = 0.8
+    * Add [thermalMassModifier] = 3
+* [LETladderD5m.cfg]
+  * Retractable Ladder
+    * Add [emissiveConstant] = 0.8
+    * Add [thermalMassModifier] = 3
+* [LETladderD8m.cfg]
+  * Retractable Ladder
+    * Add [emissiveConstant] = 0.8
+    * Add [thermalMassModifier] = 3
+
+
+
+# Part Localization
+
+* create agency
+* create /Localization/ folder
+  * create [en-us.cfg]
+  * create [quickstart.md]
+  * create [readme.md]
+* Localized parts:
+  * [LETladderF1m.cfg]
+  * [LETladderF2m.cfg]
+  * [LETladderF3m.cfg]
+  * [LETladderD8m.cfg]
+  * [LETladderD5m.cfg]
+  * [LETchuteR1.cfg]
+  * [LETchute2m.cfg]
+  * [LETchute1m.cfg]
+  * [LETbay2mOct2.cfg]
+  * [LETbay2mOct1.cfg]
+  * [LETbay2mExp.cfg]
+  * [LETpod2m4k.cfg]
+  * [LETlander2mX3.cfg]
+  * [LETleg2.cfg]
+  * [LETleg1.cfg]
+* closes #80 - Part Localization
+* closes #24 - Localization - English (United States) <en-us.cfg>
+* updates #6 - Adoption Documentation
+* updates #23 - Localization - Master
+* updates #65 #66, #67 #68 #69 #70 #71 #72 #73 #74 #75 #76 #77 #78 #79
+* updates #86 - Agent update
+
+
+# Update texture pointers
+
+* .mbm | .tga | .png -->.dds
+* updates #65 #66, #67 #68 #69 #70 #71 #72 #73 #74 #75 #76 #77 #78 #79
+
+# Relocated art assets
+
+* move textures and models into Assets/
+* update MODEL paths in part configs
+* updates #65 #66, #67 #68 #69 #70 #71 #72 #73 #74 #75 #76 #77 #78 #79
+
+
+# Part Thumbnail Images
+
+* thumbnail images list 
+  * [LETladderF2m.cfg]
+  * [LETladderF1m.cfg]
+  * [LETladderD8m.cfg]
+  * [LETladderD5m.cfg]
+  * [LETchuteR1.cfg]
+  * [LETchute2m.cfg]
+  * [LETchute1m.cfg]
+  * [LETbay2mOct2.cfg]
+  * [LETbay2mOct1.cfg]
+  * [LETbay2mExp.cfg]
+  * [LETpod2m4k.cfg]
+  * [LETlander2mX3.cfg]
+  * [LETleg2.cfg]
+  * [LETleg1.cfg]
+  * [LETladderF3m.cfg]
+* create [docs/PartThumbnails.md]
+* closes #81 - Part Thumbnail Images
 
 # Parts Missing Manufacturer
 
