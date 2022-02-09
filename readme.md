@@ -27,10 +27,10 @@ brought to you by _KGEx_
 ## Features 
 
 This mod adds fifteen stockalike parts
-* 3-kerbal Lander Can
-  > <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETlander2mX3_icon.png" alt="LETlander2mX3" style="zoom:50%;" />
+* 3-kerbal Lander Can 
+  <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETlander2mX3_icon.png" alt="LETlander2mX3" style="zoom:50%;" />
 * 4-kerbal Capsule
-  ><img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETpod2m4k_icon.png" alt="LETpod2m4k" style="zoom:50%;" />
+  <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETpod2m4k_icon.png" alt="LETpod2m4k" style="zoom:50%;" />
 * Two: sets of large landing legs
   * "medium" will handle Mainsails
   * "large" works with Mammoths
@@ -41,22 +41,8 @@ This mod adds fifteen stockalike parts
   > <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderF1m_icon.png" alt="LETladderF1m" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderF2m_icon.png" alt="LETladderF2m" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderF3m_icon.png" alt="LETladderF3m" style="zoom:50%;" />
 * Two (5m and 8m) very long deployable ladders
   > <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderD5m_icon.png" alt="LETladderD5m" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderD8m_icon.png" alt="LETladderD8m" style="zoom:50%;" />
-* Three Service bays / rover garages.
+* Three service bays / rover garages.
   > <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETbay2mExp_icon.png" alt="LETbay2mExp" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETbay2mOct1_icon.png" alt="LETbay2mOct1" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETbay2mOct2_icon.png" alt="LETbay2mOct2" style="zoom:50%;" />
-
-![LETbay2mExp_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETbay2mExp_icon.png) ![LETbay2mOct1_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETbay2mOct1_icon.png) ![LETbay2mOct2_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETbay2mOct2_icon.png)
-
-![LETchute1m_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETchute1m_icon.png) ![LETchute2m_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETchute2m_icon.png) ![LETchuteR1_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETchuteR1_icon.png)
-
-![LETladderD5m_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderD5m_icon.png) ![LETladderD8m_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderD8m_icon.png) 
-
-![LETladderF1m_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderF1m_icon.png)
-![LETladderF2m_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderF2m_icon.png) ![LETladderF3m_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderF3m_icon.png)
-
-![LETleg1_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETleg1_icon.png) ![LETleg2_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETleg2_icon.png)
-
-<img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\_icon.png" alt="" style="zoom:50%;" />
-![LETlander2mX3_icon](\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETlander2mX3_icon.png)
 
 
 [![Kottabos Gaming](https://img.youtube.com/vi/7WDrXsFWVg4/0.jpg)](https://www.youtube.com/watch?v=7WDrXsFWVg4)
