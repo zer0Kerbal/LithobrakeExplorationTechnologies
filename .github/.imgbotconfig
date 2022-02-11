@@ -1,6 +1,7 @@
 {
     "schedule": "weekly"
     "ignoredFiles": [
+        "GameData/*",
         "**/GameData/**",
         "docs/LegalMumboJumbo/*"
     ],
