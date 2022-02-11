@@ -167,9 +167,9 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 > ***All bundled mods are distributed under their own licenses***  
 > ***All art assets (textures, models, animations, sounds) are distributed under their own licenses***
 
-#### Original (0) - Author: [`NecroBones`/`Orvidius][LINK:necrobones]
+#### Original (0) - Author: [`NecroBones`/`Orvidius`][LINK:necrobones]
 
-> [Thread][MOD:org:thread]  - Download: [SpaceDock][MOD:org:download] - Source: [ksp.necrobones.com][MOD:org:source]
+> [Thread][MOD:org:thread]  - Download: [SpaceDock][MOD:org:download] - Source: [ksp.necrobones.com][MOD:org:source]  
 > License: [![License][LIC:org:shd]][LIC:org:url] ![][LIC:org:log]
 
 <!-- mod links -->
@@ -268,7 +268,9 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [^2]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
 [^3]: this isn't a mod. ;P
 
-Track progress: issues [here][MOD:issue] - projects [here](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/projects/)
+--- 
+
+## Track progress: issues [here][MOD:issue] - projects [here](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/projects/)
 
 **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
