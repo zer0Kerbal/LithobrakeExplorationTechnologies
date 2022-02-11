@@ -203,7 +203,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 <!--- AVC -->
 [AVC:shd]:  https://img.shields.io/badge/KSP-AVC--supported-00C961.svg?labelColor=black&style=plastic
 [AVCVLD:shd]: https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/workflows/Validate%20AVC%20.version%20files/badge.svg?labelColor=black&style=plastic "AVC-Valid - thank you to DasSkelett"
-//?link=http://left&link=http://right
+
 <!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
 [CKAN:url]: http://forum.kerbalspaceprogram.com/index.php?/topic/197082-* "CKAN"
