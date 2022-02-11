@@ -28,7 +28,7 @@ brought to you by _KGEx_
 
 This mod adds fifteen stockalike parts
 * 3-kerbal Lander Can 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETlander2mX3_icon.png" alt="LETlander2mX3" style="zoom:10%;" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETlander2mX3_icon.png" alt="LETlander2mX3" width="10%" height="10%" />
 * 4-kerbal Capsule
   <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETpod2m4k_icon.png" alt="LETpod2m4k" style="zoom:20%;" />
 * Two: sets of large landing legs
