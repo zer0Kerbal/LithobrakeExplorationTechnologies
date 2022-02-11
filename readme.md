@@ -76,9 +76,10 @@ This mod adds fifteen stockalike parts
 ### Help Wanted
 >
 > * Assistance with converting Landing Legs ([see github issues][MOD:issue])
+> * Custom IVA's
 > * Alternative Tech Tree integration
 > * Tech Tree Balancing
-> * Variant textures.
+> * Variant textures
 
 ---
 
