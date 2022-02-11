@@ -57,12 +57,7 @@ This mod adds fifteen stockalike parts
   <iframe width="1136" height="639" src="https://www.youtube.com/embed/7WDrXsFWVg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
 
-
-### IMPORTANT NOTE:
-
-~~This mod requires ModuleManager and the Firespitter Core to be installed.~~
-
-**Part of the NecroBones suite of mods, that work nicely together:**
+### Part of the NecroBones suite of mods, that work nicely together:**
 
 * [Modular Rocket Systems](http://spacedock.info/mod/86) (stock-alike parts pack, NASA-like alternatives, and filling the gaps) (Also: [LITE version](http://spacedock.info/mod/87/Modular%20Rocket%20Systems%20LITE))
 * [SpaceY Heavy Lifters Parts Pack](http://spacedock.info/mod/88) (stock-balanced large rocket parts, 5m parts, large SRBs) (Also: [Expanded upgrade](http://spacedock.info/mod/89/SpaceY%20Expanded))
@@ -71,23 +66,26 @@ This mod adds fifteen stockalike parts
 * [ColorFuel Lines](http://spacedock.info/mod/94) (color-selctable fuel lines)
 * [Lithobrake Exploration Technologies](http://spacedock.info/mod/93) (lander parts, large chutes/legs/ladders/etc)
   
-  [**Image Gallery:**](https://imgur.com/a/FxPp9)
+### [Image Gallery](https://imgur.com/a/FxPp9)
+
 ---
 
-#### Cabin notes  
+### Cabin notes  
 >
 > * This pack is essentially feature and part complete.
 > * There will be no additional parts.
 > * There will be no more major version (0.5.0.0) after this one.
 > * Any minor releases will be for additional patches and improvements
 > * I have not personally tested the patches
+
 * _Have a request?_
   * Glad to have them!
     * Kindly submit through GitHub.
 
 ### Help Wanted
-> 
-> * Alternative Tech Tree integration 
+>
+> * Assistance with converting Landing Legs ([see github issues][MOD:issue])
+> * Alternative Tech Tree integration
 > * Tech Tree Balancing
 > * Variant textures.
 
@@ -95,8 +93,8 @@ This mod adds fifteen stockalike parts
 
 ### Localization - _work in progress_
 
-> * [x]  ![][EN] English - in progress
-> * [ ]  ***your translation here***
+>![][EN] English
+>[ ]  ***your translation here***
 >
 > HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 
@@ -140,8 +138,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 ---
 
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
-<p><b>*red box below is a link to forum post on how to get support*</b></p>
-<a href = "https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*"><p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a></br><p>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</p></div>
+<p><b>*red box below is a link to forum post on how to get support*</b></p><a href = "https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*"><p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a></br><p>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</p></div>
 
 ### Credits and Special Thanks
 >
