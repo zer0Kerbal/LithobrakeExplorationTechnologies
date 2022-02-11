@@ -141,19 +141,11 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
 <p><b>*red box below is a link to forum post on how to get support*</b></p>
-<a href = "https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*">
-  <p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a></br><p>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</p></div>
+<a href = "https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*"><p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a></br><p>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</p></div>
 
-<details>
-  <summary>Credits and Special Thanks</summary>
-  <ul>
-	<li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/173506-overkill13/">@overkill13</a> for massive amount of testing and suggestions </li>
-    <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/201212-kawaiilucy/">@KawaiiLucy</a> for Restock whitelist </li>
-	<li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/102159-sage-sagan/">@Sage Sagan</a> for creating this mod </li>
-	<li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/">@Blackheart612</a> texture and logo work </li>
-	<li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/103696-daemoria/">@Daemoria</a> models and other things </li>
-	</ul>
-</details>
+### Credits and Special Thanks
+>
+> * [NecroBones][LINK:necrobones] for creating this mod
 
 ### Legal Mumbo Jumbo (License _provenance_)
 
