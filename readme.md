@@ -142,9 +142,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
 <p><b>*red box below is a link to forum post on how to get support*</b></p>
 <a href = "https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*">
-  <p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a>
-</br>
-<p>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</p></div>
+  <p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a></br><p>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</p></div>
 
 <details>
   <summary>Credits and Special Thanks</summary>
