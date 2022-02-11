@@ -24,7 +24,7 @@ A parts pack that is focused on exploring other worlds, and returning safely to 
 
 brought to you by _KGEx_
 
-## Features 
+## Features
 
 This mod adds fifteen stockalike parts
 * 3-kerbal Lander Can 
@@ -36,12 +36,16 @@ This mod adds fifteen stockalike parts
   * "large" works with Mammoths
 	> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETleg1_icon.png" alt="LETleg1" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETleg2_icon.png" alt="LETleg2" style="zoom:50%;" />
 * Three large radial and stackable parachutes
+  
   > <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETchute1m_icon.png" alt="LETchute1m" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETchute2m_icon.png" alt="LETchute2m" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETchuteR1_icon.png" alt="LETchuteR1" style="zoom:50%;" />
 * Three (1m, 2m and 3m) static ladders
+  
   > <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderF1m_icon.png" alt="LETladderF1m" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderF2m_icon.png" alt="LETladderF2m" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderF3m_icon.png" alt="LETladderF3m" style="zoom:50%;" />
 * Two (5m and 8m) very long deployable ladders
+  
   > <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderD5m_icon.png" alt="LETladderD5m" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderD8m_icon.png" alt="LETladderD8m" style="zoom:50%;" />
 * Three service bays / rover garages.
+  
   > <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETbay2mExp_icon.png" alt="LETbay2mExp" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETbay2mOct1_icon.png" alt="LETbay2mOct1" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETbay2mOct2_icon.png" alt="LETbay2mOct2" style="zoom:50%;" />
 
 
@@ -112,7 +116,7 @@ This mod adds fifteen stockalike parts
 
 ---
 
-### Installation Directions:
+### Installation Directions
 
 ***Use***
   CurseForge/OverWolf App (currently does not install dependencies) [^3]  
@@ -265,3 +269,11 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [^1]: ***may*** work on other versions (YMMV)
 [^2]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
 [^3]: this isn't a mod. ;P
+
+Track progress: issues [here][MOD:issue] - projects [here](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/projects/) 
+**[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
+
+<div style="border:0.5px solid #BADA55; background-color: #FF7E03; color: #FF0000; text-align:center"></br>
+<a href = "https://twitter.com/zer0Kerbal"><img src = "https://simpleicons.org/icons/twitter.svg" alt="zer0Kerbal | Twitter" height="5%" width="5%"></a>
+<a href = "https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw"> <img src = "https://simpleicons.org/icons/youtube.svg" alt="zer0Kerbal | YouTube" height="5%" width="5%"></a> <a href = "https://www.twitch.tv/zer0kerbal">
+  <img src = "https://simpleicons.org/icons/twitch.svg" alt="zer0Kerbal | Twitch" height="5%" width="5%"></a></br></br></div>

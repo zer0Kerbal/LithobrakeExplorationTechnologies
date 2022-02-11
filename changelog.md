@@ -1,7 +1,19 @@
-# Version 0.5.0.0 - adoption
+# Changelog  
+  
+| modName    | Lithobrake Exploration Technologies (LET)                                      |
+| ---------- | ------------------------------------------------------------------------------ |
+| license    | CC-BY-NC-SA-4.0                                                                |
+| author     | NecroBones and zer0Kerbal                                                      |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/-*)                     |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/LithobrakeExplorationTechnologies)   |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/LithobrakeExplorationTechnologies) |
+| spacedock  | (https://spacedock.info/mod/93)                                                |
+| ckan       | LithobrakeExplorationTechnologies                                              |
 
-- 20 Jan 2022
-- For Kerbal Space Program 1.12.3
+# Version 0.5.0.0 - Adoption - Land Boldly and Safely Return
+
+* 10 Feb 2022
+* For Kerbal Space Program 1.12.3
 
 ## Update patches
 
@@ -10,6 +22,8 @@
 * add footer
 * add :NEEDS
 * add :FOR
+
+## Localization
 
 * [en-us.cfg] Additions
   * #LETech-door-open = Doors open
@@ -21,8 +35,74 @@
   * updates #24 - Localization - English (United States) <en-us.cfg>
   * updates #23 - Localization - Master
 
-# Part config updates
-	* updates #65 #66, #67 #68 #69 #70 #71 #72 #73 #74 #75 #76 #77 #78 #79
+## Part config updates
+
+* closes #65 #66, #67 #68 #69 #70 #71 #72 #73 #74 #75 #76 #77 #78 #79
+* General Changes
+  * lint pass
+  * formatting pass
+  * drag cubes
+  * thumbs
+* [LETpod2m4k]
+  * Command Pod
+  * reduced [mass] from 5 to 3.6
+  * mass = 5 vs 2.6 in mk1-3pod
+  * replaced [ModuleAnimateGeneric] with [ModuleLight]
+  * [ModuleCommand]
+    * add [defaultControlPointDisplayName]
+    * add reverse ControlPoint
+    * add [hibernation]
+    * add [ElectricCharge] = 0.05 consumption
+  * [ModuleReactionWheel]
+    * reduce [ElectricCharge] consumption from 1.2 to 0.45 (which matches the mk1-3 pod)
+  * [ModuleScienceExperiment]
+    * localize with stock #
+  * [ModuleScienceContainer]
+    * localize with stock #
+  * Add [ModuleLiftingSurface]
+* [LETlander2mX3]
+  * Landing Pod
+  * reduced [mass] from 2.75 to 1.75
+    * mass = 2.75 vs 1.355 in mk2LanderCabin_v2
+  * Updated
+    * [ModuleAnimateGeneric] for lights
+    * [crashTolerance] to 20 from 9 (matches mk2LanderCabin_v2)
+    * [maxTemp] to 1200 from 1000 (matches mk2LanderCabin_v2)
+  * [ModuleCommand]
+    * add [defaultControlPointDisplayName]
+    * add ControlPoint
+      * Up
+      * Forward
+      * Reverse
+    * add [hibernation]
+    * add [ElectricCharge] = 0.05 consumption
+  * [ModuleReactionWheel]
+    * reduce [ElectricCharge] consumption from 0.75 to 0.45 (which matches the mk1-3 pod)
+  * [ModuleScienceExperiment]
+    * localize with stock #
+  * [ModuleScienceContainer]
+    * localize with stock #
+  * Add [MonoPropellant] of 40 (to match mk2LanderCabin_v2)
+* [LETleg1.cfg]
+  * Landing Leg
+  * updated [ModuleLight]
+  * because of issues, used [ModuleAnimateGeneric] in place of
+    * [ModuleLandingLeg]
+    * [ModuleWheelBogey]
+    * [ModuleWheelLock]
+    * [ModuleWheelDeployment]
+    * [ModuleWheelSuspension]
+    * [ModuleWheelBase]
+* [LETleg2.cfg]
+  * Landing Leg
+  * updated [ModuleLight]
+  * because of issues, used [ModuleAnimateGeneric] in place of
+    * [ModuleLandingLeg]
+    * [ModuleWheelBogey]
+    * [ModuleWheelLock]
+    * [ModuleWheelDeployment]
+    * [ModuleWheelSuspension]
+    * [ModuleWheelBase]
 * [LETchuteR1.cfg]
   * Radial Parachute
   * update tags
@@ -103,10 +183,6 @@
       * [ModuleConductionMultiplier]
       * [modifiedConductionFactor] = 0.001
       * [convectionFluxThreshold]= 500
-
-* General Changes
-  * lint pass
-  * formatting pass
 * [LETladderF1m.cfg]
   * Radial Ladder
     * [maxTemp] increased to 1900 from 1800
@@ -131,9 +207,7 @@
     * Add [emissiveConstant] = 0.8
     * Add [thermalMassModifier] = 3
 
-
-
-# Part Localization
+## Part Localization
 
 * create agency
 * create /Localization/ folder
@@ -164,19 +238,19 @@
 * updates #86 - Agent update
 
 
-# Update texture pointers
+## Update texture pointers
 
 * .mbm | .tga | .png -->.dds
 * updates #65 #66, #67 #68 #69 #70 #71 #72 #73 #74 #75 #76 #77 #78 #79
 
-# Relocated art assets
+## Relocated art assets
 
 * move textures and models into Assets/
 * update MODEL paths in part configs
 * updates #65 #66, #67 #68 #69 #70 #71 #72 #73 #74 #75 #76 #77 #78 #79
 
 
-# Part Thumbnail Images
+## Part Thumbnail Images
 
 * thumbnail images list 
   * [LETladderF2m.cfg]
@@ -197,7 +271,7 @@
 * create [docs/PartThumbnails.md]
 * closes #81 - Part Thumbnail Images
 
-# Parts Missing Manufacturer
+## Parts Missing Manufacturer
 
 * [LETleg2.cfg]
 * [LETchute1m.cfg]
@@ -205,6 +279,17 @@
 * [LETbay2mOct1.cfg]
 * [LETbay2mExp.cfg]
   * closes #82 - Parts Missing Manufacturer
+
+## Status
+
+* closes #8 - Release 0.5.0.0-adoption
+* closes #7 - Adoption - social media
+* closes #6 - Adoption Documentation
+* closes #5 - Adoption Legal MumboJumbo   
+* closes #4 - Adoption - GitHub
+* closes #64 - Update Lithobrake Exploration Technologies (LET)
+
+---
 
 # Version 0.4.0.0 (2016-10-12) - KSP 1.2 Update.
 * Updated categories for many parts.
