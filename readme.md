@@ -140,9 +140,11 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 ---
 
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
-<p><b>*red box below is a link to forum post on how to get support*</p>  
+<p><b>*red box below is a link to forum post on how to get support*</p>
 <a href = "https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*">
-  <p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</div>
+  <p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a>
+</br>
+<p>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</p></div>
 
 <details>
   <summary>Credits and Special Thanks</summary>
@@ -268,9 +270,11 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [^2]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
 [^3]: this isn't a mod. ;P
 
---- 
+---
 
-## Track progress: issues [here][MOD:issue] - projects [here](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/projects/)
+## Track progress
+
+### issues [here][MOD:issue] - projects [here](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/projects/)
 
 **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
