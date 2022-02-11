@@ -28,25 +28,25 @@ brought to you by _KGEx_
 
 This mod adds fifteen stockalike parts
 * 3-kerbal Lander Can 
-  <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETlander2mX3_icon.png" alt="LETlander2mX3" style="zoom:50%;" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETlander2mX3_icon.png" alt="LETlander2mX3" style="zoom:50%;" />
 * 4-kerbal Capsule
-  <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETpod2m4k_icon.png" alt="LETpod2m4k" style="zoom:50%;" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETpod2m4k_icon.png" alt="LETpod2m4k" style="zoom:50%;" />
 * Two: sets of large landing legs
   * "medium" will handle Mainsails
   * "large" works with Mammoths
-	> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETleg1_icon.png" alt="LETleg1" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETleg2_icon.png" alt="LETleg2" style="zoom:50%;" />
+	> <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETleg1_icon.png" alt="LETleg1" style="zoom:50%;" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETleg2_icon.png" alt="LETleg2" style="zoom:50%;" />
 * Three large radial and stackable parachutes
   
-  > <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETchute1m_icon.png" alt="LETchute1m" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETchute2m_icon.png" alt="LETchute2m" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETchuteR1_icon.png" alt="LETchuteR1" style="zoom:50%;" />
+  > <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETchute1m_icon.png" alt="LETchute1m" style="zoom:50%;" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETchute2m_icon.png" alt="LETchute2m" style="zoom:50%;" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETchuteR1_icon.png" alt="LETchuteR1" style="zoom:50%;" />
 * Three (1m, 2m and 3m) static ladders
   
-  > <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderF1m_icon.png" alt="LETladderF1m" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderF2m_icon.png" alt="LETladderF2m" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderF3m_icon.png" alt="LETladderF3m" style="zoom:50%;" />
+  > <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETladderF1m_icon.png" alt="LETladderF1m" style="zoom:50%;" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETladderF2m_icon.png" alt="LETladderF2m" style="zoom:50%;" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETladderF3m_icon.png" alt="LETladderF3m" style="zoom:50%;" />
 * Two (5m and 8m) very long deployable ladders
   
-  > <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderD5m_icon.png" alt="LETladderD5m" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETladderD8m_icon.png" alt="LETladderD8m" style="zoom:50%;" />
+  > <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETladderD5m_icon.png" alt="LETladderD5m" style="zoom:50%;" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETladderD8m_icon.png" alt="LETladderD8m" style="zoom:50%;" />
 * Three service bays / rover garages.
   
-  > <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETbay2mExp_icon.png" alt="LETbay2mExp" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETbay2mOct1_icon.png" alt="LETbay2mOct1" style="zoom:50%;" /> <img src="\GameData\NecroBones\LithobrakeExplorationTechnologies\Parts\@thumbs\LETbay2mOct2_icon.png" alt="LETbay2mOct2" style="zoom:50%;" />
+  > <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETbay2mExp_icon.png" alt="LETbay2mExp" style="zoom:50%;" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETbay2mOct1_icon.png" alt="LETbay2mOct1" style="zoom:50%;" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETbay2mOct2_icon.png" alt="LETbay2mOct2" style="zoom:50%;" />
 
 
 [![Kottabos Gaming](https://img.youtube.com/vi/7WDrXsFWVg4/0.jpg)](https://www.youtube.com/watch?v=7WDrXsFWVg4)
@@ -130,7 +130,6 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 ### Dependencies
 
 * [Kerbal Space Program][KSP:url] [![][KSP:shd]][KSP:url] [^1]
-
 ### Supports
 
 * [On Demand Fuel Cells (ODFC)][thread:ODFC] [^2]  
