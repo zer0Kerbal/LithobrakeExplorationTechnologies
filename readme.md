@@ -227,9 +227,9 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [thread:ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-* "On Demand Fuel Cells"
 [thread:mm]:  http://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "Module Manager"
 [thread:ckan]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-* "CKAN"
-[thread:twk]:  "TweakScale"
-[thread:cls]:  "Connected Living Space"
-[thread:rc]:  "RealChute"
+[thread:twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-* "TweakScale"
+[thread:cls]: http://forum.kerbalspaceprogram.com/index.php?showtopic=192130-* "Connected Living Space"
+[thread:rc]: http://forum.kerbalspaceprogram.com/index.php?/topic/52931-0 "RealChute"
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00 "PayPal"
@@ -260,7 +260,6 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Taiwanese-flag-sm.png "国语"
 [HA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Hawaii-flag-sm.png "ʻŌlelo Pākē"
 
-
 [LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"
 [LINK:necrobones]: https://forum.kerbalspaceprogram.com/index.php?/profile/105424-necrobones/ "NecroBones"
 
@@ -269,7 +268,8 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [^2]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
 [^3]: this isn't a mod. ;P
 
-Track progress: issues [here][MOD:issue] - projects [here](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/projects/) 
+Track progress: issues [here][MOD:issue] - projects [here](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/projects/)
+
 **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
 <div style="border:0.5px solid #BADA55; background-color: #FF7E03; color: #FF0000; text-align:center"></br>
