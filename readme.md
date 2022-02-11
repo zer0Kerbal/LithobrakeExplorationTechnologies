@@ -13,41 +13,32 @@ updated: 07 Feb 2022 -->
 
 # Lithobrake Exploration Technologies (LET)
 
-A parts pack that is focused on exploring other worlds, and returning safely to Kerbin. The emphasis is on surface exploration, particularly with large rockets and large landers. This pack includes:
-
-
+A parts pack that is focused on exploring other worlds, and returning safely to Kerbin. The emphasis is on surface exploration, particularly with large rockets and large landers. This pack includes fifteen (15) large parts.
 
 ## By [`zer0Kerbal`][LINK:zer0Kerbal], originally by [`NecroBones`/`Orvidius`][LINK:necrobones]
 
-
-<img src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_11_2015/avatar_96x96.gif.787b9a3478ccb83beb330a550f437d88.thumb.gif.5afcf23f2446f3774eeeeca98687261b.gif" alt="NecroBones logo" width="15%" height="15%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/0.5.0.0/img/HeroLogo_1920x1920.png" alt="Texture and Logo work by Blackheart612" width="50%" height="50%">
+</br>
+<img src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_11_2015/avatar_96x96.gif.787b9a3478ccb83beb330a550f437d88.thumb.gif.5afcf23f2446f3774eeeeca98687261b.gif" alt="NecroBones logo" width="15%" height="15%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/img/HeroLogo_1920x1920.png" alt="Lithobrake Exploration Technologies" width="50%" height="50%">
 
 brought to you by _KGEx_
 
 ## Features
 
 This mod adds fifteen stockalike parts
-* 3-kerbal Lander Can 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETlander2mX3_icon.png" alt="LETlander2mX3" width="25%" height="25%" />
-* 4-kerbal Capsule
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETpod2m4k_icon.png" alt="LETpod2m4k" width="25%" height="25%" />
+* A four-kerbal Capsule and a three-kerbal Lander Can
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETpod2m4k_icon.png" alt="LETpod2m4k" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETlander2mX3_icon.png" alt="LETlander2mX3" width="25%" height="25%" />  
 * Two: sets of large landing legs
   * "medium" will handle Mainsails
-  * "large" works with Mammoths
+  * "large" works with Mammoths  
 > <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETleg1_icon.png" alt="LETleg1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETleg2_icon.png" alt="LETleg2" width="25%" height="25%" />
-* Three large radial and stackable parachutes
-  
+* Three large stackable and radial parachutes  
   > <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETchute1m_icon.png" alt="LETchute1m" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETchute2m_icon.png" alt="LETchute2m" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETchuteR1_icon.png" alt="LETchuteR1" width="25%" height="25%" />
-* Three (1m, 2m and 3m) static ladders
-  
+* Three (1m, 2m and 3m) static ladders  
   > <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETladderF1m_icon.png" alt="LETladderF1m" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETladderF2m_icon.png" alt="LETladderF2m" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETladderF3m_icon.png" alt="LETladderF3m" width="25%" height="25%" />
 * Two (5m and 8m) very long deployable ladders
-  
   > <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETladderD5m_icon.png" alt="LETladderD5m" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETladderD8m_icon.png" alt="LETladderD8m" width="25%" height="25%" />
 * Three service bays / rover garages.
-  
   > <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETbay2mExp_icon.png" alt="LETbay2mExp" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETbay2mOct1_icon.png" alt="LETbay2mOct1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETbay2mOct2_icon.png" alt="LETbay2mOct2" width="25%" height="25%" />
-
 
 [![Kottabos Gaming](https://img.youtube.com/vi/7WDrXsFWVg4/0.jpg)](https://www.youtube.com/watch?v=7WDrXsFWVg4)
 
