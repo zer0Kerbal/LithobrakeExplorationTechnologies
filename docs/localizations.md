@@ -12,9 +12,10 @@ updated: 01 Feb 2022
 # Lithobrake Exploration Technology (LET)
 
 has been translated into the following languages:
-- [ ] [![American English][EN]][EN] [American English][EN] <us-en.cfg>  
+- [X] [![American English][EN]][EN] [American English][EN] <us-en.cfg>  
 
 ## These localizations for KSP and its DLC's are available through Steam:
+
 - [ ] [![Português Brasil][BR]][BR] [Brazil Portuguese (Português Brasil)][BR] <pt-br.cfg>  
 
 - [ ] [![Deutsch][DE]][DE] [German (Deutsch)][DE]  <de.cfg>  
