@@ -155,7 +155,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 <!-- mod links -->
 [MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/206860-* "LithobrakeExplorationTechnologies Forum Thread"
-[MOD:chlog]: https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/changelog.md "Changelog"
+[MOD:chlog]: https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/blob/master/changelog.md "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/discussions "Discussions"
 [MOD:issue]: https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/wiki/Known-Issues "GitHub Issues"
