@@ -15,7 +15,7 @@ updated: 07 Feb 2022 -->
 
 A parts pack that is focused on exploring other worlds, and returning safely to Kerbin. The emphasis is on surface exploration, particularly with large rockets and large landers. This pack includes fifteen (15) large parts.
 
-## By [`zer0Kerbal`][LINK:zer0Kerbal], originally by [`NecroBones`/`Orvidius`][LINK:necrobones]
+## By [`zer0Kerbal`][LINK:zer0Kerbal], originally by Ed T. Toton III a.ka. [`NecroBones`/`Orvidius`][LINK:necrobones]
 
 </br>
 <img src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_11_2015/avatar_96x96.gif.787b9a3478ccb83beb330a550f437d88.thumb.gif.5afcf23f2446f3774eeeeca98687261b.gif" alt="NecroBones logo" width="15%" height="15%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/img/HeroLogo_1920x1920.png" alt="Lithobrake Exploration Technologies" width="50%" height="50%">
