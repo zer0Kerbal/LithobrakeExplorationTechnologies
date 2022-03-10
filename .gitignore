@@ -1,4 +1,4 @@
-﻿# .gitignore v2.0.0.3
+﻿# .gitignore v2.0.2.0
 
 # Prerequisites
 *.d
@@ -50,23 +50,6 @@
 
 
 # zer0Kerbal common files
-Archive/
-Old/
-flaticons/
-Links/
-old/*
-NetKAN/*
-images.txt
-shields.md
-buildRelease.bat
-buildReleaseSub.bat
-deploy.bat
-deploySub.bat
-_buildRelease.bat
-_buildReleaseSub.bat
-_deploy.bat
-_deploySub.bat
-mod.version
 regex4loc.txt
 _*
 
