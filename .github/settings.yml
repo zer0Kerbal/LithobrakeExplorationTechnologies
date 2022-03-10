@@ -18,7 +18,7 @@ repository:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/117527-*
 
   # A comma-separated list of topics to set on the repository
-  topics: litho, lithbrake, exploration, ladder, lander, leg, garage, rover, necrobones, kerbal, kerbalspaceprogram, ksp, ksp-mods, ksp-parts, kerbal-space, kerbal-space-program, kerbal-mods, mods, zedk
+  topics: litho,lithobrake,brake,exploration,ladder,lander,leg,garage,rover,necrobones,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods,mods,zedk
   
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
