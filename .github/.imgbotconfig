@@ -2,8 +2,17 @@
     "schedule": "weekly",
     "ignoredFiles": [
         "GameData/*",
-        "**/GameData/**",
-        "docs/LegalMumboJumbo/*"
+        "docs/LegalMumboJumbo/*",
+        "GameData/NecroBones/LithobrakeExplorationTechnologies/*",
+        "source/*",
+        "**/Assets/**",
+        "**/Flags/**",
+        "**/Agents/**",
+        "**/Textures/**",
+        "**/UI/**",
+        "**/PluginData/**",
+        "**/Icons/**",
+        "**/@thumbs/**"
     ],
     "aggressiveCompression": "false",
     "compressWiki": "true",
