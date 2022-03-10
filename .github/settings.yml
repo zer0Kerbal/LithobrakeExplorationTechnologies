@@ -266,6 +266,10 @@ milestones:
     description: progress toward dedicated IVA
     state: open
  
+  - title: Landing Legs
+    description: progress toward Landing Leg modules working
+    state: open
+ 
   - title: Localization - English (United States) <en-us.cfg>
     description: progress toward English (United States) <en-us.cfg> localization
     state: closed
