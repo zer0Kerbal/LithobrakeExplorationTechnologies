@@ -13,7 +13,7 @@
 	{
 		"MAJOR" : 0,
 		"MINOR" : 5,
-		"PATCH" : 0,
+		"PATCH" : 1,
 		"BUILD" : 0
 	},
 	"KSP_VERSION" :
@@ -28,15 +28,9 @@
 		"MINOR" : 0,
 		"PATCH" : 0
 	},
-	"KSP_VERSION_MAX" :
-	{
-		"MAJOR" : 1,
-		"MINOR" : 12,
-		"PATCH" : 9999
-	},
 	"INSTALL_LOC" :
 	{
-		"NAME" :		  "LithobrakeExplorationTechnologies",
-		"DIRECTORY" :	 "NecroBones/LithobrakeExplorationTechnologies"
+		"NAME"      : "LithobrakeExplorationTechnologies",
+		"DIRECTORY" : "NecroBones/LithobrakeExplorationTechnologies"
 	}
 }
