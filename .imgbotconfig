@@ -7,7 +7,7 @@
         "source/*",
         "**/Assets/**",
         "**/Flags/**",
-        "**/Agents/**",
+        "**/Agencies/**",
         "**/Textures/**",
         "**/UI/**",
         "**/PluginData/**",
