@@ -30,7 +30,7 @@
 	},
 	"INSTALL_LOC" :
 	{
-		"NAME" :		  "LithobrakeExplorationTechnologies",
-		"DIRECTORY" :	 "NecroBones/LithobrakeExplorationTechnologies"
+		"NAME"      : "LithobrakeExplorationTechnologies",
+		"DIRECTORY" : "NecroBones/LithobrakeExplorationTechnologies"
 	}
 }
