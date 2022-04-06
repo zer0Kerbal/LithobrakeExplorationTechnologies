@@ -1,16 +1,18 @@
-# 1.1.0.1 - 2 Dec 2021
+# 1.1.0.2
+# created: 02 Dec 2021
+# updated: 18 Mar 2022
 # An action for filtering pull requests and issues from first-time contributors.
 # https://github.com/marketplace/actions/first-interaction
 
 name: Greetings
 
-on: [pull_request, issues, issue_comment, discussion_comment, fork, gollum]
+on: [pull_request, issues, issue_comment, discussion_comment, fork, gollum, workflow_dispatch]
 
 jobs:
   greeting:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/first-interaction@v1
+    - uses: actions/first-interaction@v1.1.0
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: 'Thank you. Kindly read [contributiing.md](https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md), [code_of_conduct.md](https://github.com/zer0Kerbal/.github/blob/master/.github/CODE_OF_CONDUCT.md) and [styleguide.md](https://github.com/zer0Kerbal/.github/blob/master/.github/STYLEGUIDE.md). These are boilerplate.'
