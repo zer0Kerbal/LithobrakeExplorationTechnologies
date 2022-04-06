@@ -1,14 +1,14 @@
-# .gitattributes v2.0.0.0
-
+# .gitattributes v2.0.2.0
+# add git lfs support for .psd
+#
+# handle .imgbotconfig
+*.imgbotconfig linguist-language=json
 # Auto detect text files and perform LF normalization
 # http://davidlaing.com/2012/09/19/customise-your-gitattributes-to-become-a-git-ninja/
 * text=auto
-
 *.cs text diff=csharp
-
 # Set the default behavior, in case people don't have core.autocrlf set.
 * text=auto
-
 # Explicitly declare text files you want to always be normalized and converted
 # to native line endings on checkout.
 *.c text
@@ -16,31 +16,24 @@
 *.cs     diff=csharp
 *.csproj text=auto merge=union
 *.cfg KSP configs
-
-
 # Declare files that will always have CRLF line endings on checkout.
 *.sln text=auto eol=crlf merge=union
-
 # normalize tabs instead of spaces for all .cfg files
 *.cfg  filter=tabspace
-
 # git config --global filter.tabspace.smudge 'unexpand --tabs=4 --first-only'
 # git config --global filter.tabspace.clean 'expand --tabs=4 --initial'
-
 # Denote all files that are truly binary and should not be modified.
 *.png binary
 *.jpg binary
 *.dds binary
 *.tga binary
-*.psd binary
+*.psd filter=lfs diff=lfs merge=lfs -text
 *.mu  binary
 *.mbm binary
-
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
 *            text=auto
-
 ###############################################################################
 # Set the merge driver for project and solution files
 #
@@ -52,7 +45,6 @@
 # intervention with every merge. To do so, just comment the entries below and
 # uncomment the group further below
 ###############################################################################
-
 *.sln        text eol=crlf
 *.csproj     text eol=crlf
 *.vbproj     text eol=crlf
@@ -65,13 +57,10 @@
 *.modelproj  text eol=crlf
 *.sqlproj    text eol=crlf
 *.wmaproj    text eol=crlf
-
 *.xproj      text eol=crlf
 *.props      text eol=crlf
 *.filters    text eol=crlf
 *.vcxitems   text eol=crlf
-
-
 #*.sln       merge=binary
 #*.csproj    merge=binary
 #*.vbproj    merge=binary
@@ -84,12 +73,10 @@
 #*.modelproj merge=binary
 #*.sqlproj   merge=binary
 #*.wwaproj   merge=binary
-
 #*.xproj     merge=binary
 #*.props     merge=binary
 #*.filters   merge=binary
 #*.vcxitems  merge=binary
-
 ## GITATTRIBUTES FOR WEB PROJECTS
 #
 # These settings are for any web project.
@@ -100,13 +87,11 @@
 #
 # Note that binary is a macro for -text -diff.
 ######################################################################
-
 # Auto detect
 ##   Handle line endings automatically for files detected as
 ##   text and leave all files detected as binary untouched.
 ##   This will handle all files NOT defined below.
 *                 text=auto
-
 # Source code
 *.bash            text eol=lf
 *.bat             text eol=crlf
@@ -141,10 +126,8 @@
 *.tsx             text
 *.xml             text
 *.xhtml           text diff=html
-
 # Docker
 Dockerfile        text
-
 # Documentation
 *.ipynb           text
 *.markdown        text
@@ -170,7 +153,6 @@ NEWS              text
 readme            text
 *README*          text
 TODO              text
-
 # Templates
 *.dot             text
 *.ejs             text
@@ -187,7 +169,6 @@ TODO              text
 *.tpl             text
 *.twig            text
 *.vue             text
-
 # Configs
 *.cnf             text
 *.conf            text
@@ -205,10 +186,8 @@ package-lock.json text -diff
 browserslist      text
 Makefile          text
 makefile          text
-
 # Heroku
 Procfile          text
-
 # Graphics
 *.ai              binary
 *.bmp             binary
@@ -236,7 +215,6 @@ Procfile          text
 *.tiff            binary
 *.wbmp            binary
 *.webp            binary
-
 # Audio
 *.kar             binary
 *.m4a             binary
@@ -245,7 +223,6 @@ Procfile          text
 *.mp3             binary
 *.ogg             binary
 *.ra              binary
-
 # Video
 *.3gpp            binary
 *.3gp             binary
@@ -264,7 +241,6 @@ Procfile          text
 *.swc             binary
 *.swf             binary
 *.webm            binary
-
 # Archives
 *.7z              binary
 *.gz              binary
@@ -272,21 +248,16 @@ Procfile          text
 *.rar             binary
 *.tar             binary
 *.zip             binary
-
 # Fonts
 *.ttf             binary
 *.eot             binary
 *.otf             binary
 *.woff            binary
 *.woff2           binary
-
 # Executables
 *.exe             binary
 *.pyc             binary
-
 # RC files (like .babelrc or .eslintrc)
 *.*rc             text
-
 # Ignore files (like .npmignore or .gitignore)
 *.*ignore         text
-
