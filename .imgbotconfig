@@ -1,0 +1,20 @@
+{
+    "schedule": "weekly",
+    "ignoredFiles": [
+        "GameData/*",
+        "docs/LegalMumboJumbo/*",
+        "GameData/NecroBones/LithobrakeExplorationTechnologies/*",
+        "source/*",
+        "**/Assets/**",
+        "**/Flags/**",
+        "**/Agencies/**",
+        "**/Textures/**",
+        "**/UI/**",
+        "**/PluginData/**",
+        "**/Icons/**",
+        "**/@thumbs/**"
+    ],
+    "aggressiveCompression": "false",
+    "compressWiki": "true",
+    "minKBReduced": 500
+}
