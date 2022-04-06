@@ -25,7 +25,7 @@ You should be all good! (check for latest version on CurseForge)
 
 ### If Downloaded from CurseForge/OverWolf manual download
 
-To install, place the NecroBones folder inside your Kerbal Space Program GameData folder:
+To install, place the NecroBones folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
   * Delete `<KSP_ROOT>/GameData/NecroBones/LithobrakeExplorationTechnologies`
