@@ -12,7 +12,6 @@
 
 # Version 0.5.1.0-prerelease - 大胆安全回归
 
-
 # Localization
 
 * create zh-cn.cfg
