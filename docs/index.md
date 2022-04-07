@@ -6,7 +6,8 @@
 
 ## Documents
 - [404](404.md)
-- [LegalMumboJumbo-v1.0.3.0](LegalMumboJumbo-v1.0.3.0.md)
+- [Attributions](Attributions.md)
+- [LegalMumboJumbo](LegalMumboJumbo.md)
 - [ManualInstallation](ManualInstallation.md)
 - [PartThumbnails](PartThumbnails.md)
 - [localizations](localizations.md)
