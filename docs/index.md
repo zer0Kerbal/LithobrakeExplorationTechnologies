@@ -9,5 +9,5 @@
 - [Attributions](Attributions.md)
 - [LegalMumboJumbo](LegalMumboJumbo.md)
 - [ManualInstallation](ManualInstallation.md)
-- [PartThumbnails](PartThumbnails.md)
+- [PartInvoice](PartInvoice.md)
 - [localizations](localizations.md)
