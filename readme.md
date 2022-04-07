@@ -1,13 +1,15 @@
-<!-- readme.md v1.6.5.6
-LithobrakeExplorationTechnologies (LET)
+<!-- readme.md v1.6.6.1
+Lithobrake Exploration Technologies (LET)
 created: 01 Oct 2019
-updated: 07 Feb 2022 -->
+updated: 22 Mar 2022 -->
 
 <!--this file: CC BY-ND 3.0 unported by zer0Kerbal-->
 
-[![LithobrakeExplorationTechnologies][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Lithobrake Exploration Technologies][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
 ![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd]
+
+[![GitHub Pages][MOD:pages:shd]][MOD:pages]
 
 
 
@@ -15,10 +17,11 @@ updated: 07 Feb 2022 -->
 
 A parts pack that is focused on exploring other worlds, and returning safely to Kerbin. The emphasis is on surface exploration, particularly with large rockets and large landers. This pack includes fifteen (15) large parts.
 
-## By [`zer0Kerbal`][LINK:zer0Kerbal], originally by Ed T. Toton III a.ka. [`NecroBones`/`Orvidius`][LINK:necrobones]
+## By [`zer0Kerbal`][zer0Kerbal], originally by Ed T. Toton III a.ka. [`NecroBones`/`Orvidius`][necrobones]
 
-</br>
-<img src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_11_2015/avatar_96x96.gif.787b9a3478ccb83beb330a550f437d88.thumb.gif.5afcf23f2446f3774eeeeca98687261b.gif" alt="NecroBones logo" width="15%" height="15%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/img/HeroLogo_1920x1920.png" alt="Lithobrake Exploration Technologies" width="50%" height="50%">
+adopted with *express* permission and brought to you by *KerbSimpleCo*
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/img/HeroLogo_1920x1920.png" alt="Lithobrake Exploration Technologies" width="50%" height="50%">
 
 brought to you by _KGEx_
 
@@ -64,14 +67,14 @@ This mod adds fifteen stockalike parts
 ### Cabin notes  
 >
 > * This pack is essentially feature and part complete.
-> * There will be no additional parts.
-> * There will be no more major version (0.5.0.0) after this one.
+> * There should be no additional parts.
+> * There should be no more major version (0.5.0.0) after this one.
 > * Any minor releases will be for additional patches and improvements
 > * I have not personally tested the patches
 
 * _Have a request?_
   * Glad to have them!
-    * Kindly submit through GitHub.
+    * Kindly submit through [GitHub][MOD:issue].
 
 ### Help Wanted
 >
@@ -83,16 +86,17 @@ This mod adds fifteen stockalike parts
 
 ---
 
-### Localization - _work in progress_
+### Localization
 
->![][EN] English
->[ ]  ***your translation here***
+>* ![English][EN] English
+>* ![简体中文][CN] Simplified Chinese (简体中文) - 🧧 Thank you @beefpatty!
+>* ***your translation here***
 >
 > HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 
 ---
 
-### How to support this and other great mods by [`zer0Kerbal`][LINK:zer0Kerbal]  
+### How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]  
 
 [![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url] 
 
@@ -100,81 +104,90 @@ This mod adds fifteen stockalike parts
 
 ### See More
 
-* Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]  
-* Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]  
-* Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:known]  
+* Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
+* Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]
+* Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:known]
+* GitHub Pages : See [Pages][MOD:pages]
 
 ---
 
 ### Installation Directions
 
 ***Use***
-  CurseForge/OverWolf App (currently does not install dependencies) [^3]  
+  CurseForge/OverWolf App (currently does not install dependencies) [^1]  
 
   <a href="https://download.curseforge.com/">
     <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
 </a>
 
-or [![CKAN][CKAN:img]][CKAN:url] [^3]  
+or [![CKAN][CKAN:img]][CKAN:url] [^1]  
 
 ### Dependencies
 
-* [Kerbal Space Program][KSP:url] [![][KSP:shd]][KSP:url] [^1]
+* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
+
 ### Supports
 
-* [On Demand Fuel Cells (ODFC)][thread:ODFC] [^2]  
-* [TweakScale][thread:twk]
-* [Connected Living Spaces][thread:cls]
-* [RealChute][thread:rc]
+* [On Demand Fuel Cells (ODFC)][ODFC] [^3]  
+* [TweakScale][twk]
+* [Connected Living Spaces][cls]
+* [RealChute][rc]
 
 ---
 
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
-<p><b>*red box below is a link to forum post on how to get support*</b></p><a href = "https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*"><p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a></br><p>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</p></div>
+<p><b>*red box below is a link to forum post on how to get support*</p>  
+<a href = "https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*">
+  <p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</div>
 
 ### Credits and Special Thanks
 >
-> * [NecroBones][LINK:necrobones] for creating this mod
+> * [NecroBones][necrobones] for creating this mod
+> * [beefpatty][beefpatty] for providing the Simplified Chinese (简体中文) translation
 
 ### Legal Mumbo Jumbo (License _provenance_)
 
-#### Current (1) - [`zer0Kerbal`][LINK:zer0Kerbal]
+#### Current (1) - [`zer0Kerbal`][zer0Kerbal]
 
 > Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]  
-> License: [![License][LIC:shd]][LIC:url] ![][LIC:log]
+> License: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
 >
 > ##### Disclaimer(s)
 >
 > ***All bundled mods are distributed under their own licenses***  
 > ***All art assets (textures, models, animations, sounds) are distributed under their own licenses***
 
-#### Original (0) - Author: [`NecroBones`/`Orvidius`][LINK:necrobones]
+#### Original (0) - Author: [`NecroBones`/`Orvidius`][necrobones]
 
-> [Thread][MOD:org:thread]  - Download: [SpaceDock][MOD:org:download] - Source: [ksp.necrobones.com][MOD:org:source]  
-> License: [![License][LIC:org:shd]][LIC:org:url] ![][LIC:org:log]
+> Forum: [Thread][MOD:0:thread] - Download: [SpaceDock][MOD:0:download] - Source: [ksp.necrobones.com][MOD:0:source]  
+> License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
 
 <!-- mod links -->
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/206860-* "LithobrakeExplorationTechnologies Forum Thread"
+[MOD:attr]: https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/Attribution.md "Attribution"
 [MOD:chlog]: https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/blob/master/changelog.md "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/discussions "Discussions"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/206860-* "LithobrakeExplorationTechnologies Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/wiki/Known-Issues "GitHub Issues"
 [MOD:known]: https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/wiki/Known-Issues "Known Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/blob/master/LICENSE "Github License"
 [MOD:local]: https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/blob/master/GameData/LithobrakeExplorationTechnologies/Localization/readme.md "Localization"
-[MOD:wiki]: https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/ "Wiki"
+[MOD:pages]: https://zer0kerbal.github.io/LithobrakeExplorationTechnologies/ "GitHub Pages"
+[MOD:wiki]: https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/wiki "Wiki"
 
 <!--- mod -->
 [MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/json/mod.json
 
-<!--- original mod stuff -->
-[MOD:org:thread]:https://forum.kerbalspaceprogram.com/index.php?/topic/117527-* "KSP Forum"
-[MOD:org:source]: http://ksp.necrobones.com/files/LETech/LETech-0.4.zip "ksp.necrobones.com"
-[MOD:org:download]: http://spacedock.info/mod/93 "SpaceDock"
+[MOD:pages:shd]: https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/actions/workflows/pages/pages-build-deployment/badge.svg "GitHub IO"
 
-[LIC:org:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
-[LIC:org:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
-[LIC:org:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/json/license.json "Creative Commons"
+<!--- original mod stuff -->
+[MOD:0:source]: http://ksp.necrobones.com/files/LETech/LETech-0.4.zip "ksp.necrobones.com"
+[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/117527-* "KSP Forum"
+[MOD:0:download]: http://spacedock.info/mod/93 "SpaceDock"
+
+[LIC:0:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
+[LIC:0:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
+[LIC:0:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/json/license.json "Creative Commons"
 
 <!--- license -->
 [LIC:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
@@ -188,7 +201,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 <!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
 [CKAN:url]: http://forum.kerbalspaceprogram.com/index.php?/topic/197082-* "CKAN"
-[CKAN:shd]: https://img.shields.io/badge/CKAN-LithobrakeExplorationTechnologies-white.svg?labelColor=E32811&style=plastic "CKAN"
+[CKAN:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/json/ckan.json "CKAN"
 
 <!--- release links -->
 [CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/LithobrakeExplorationTechnologies "Curseforge"
@@ -205,12 +218,11 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/json/ksp.json&logo=data:image/webp;base64,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 "Kerbal Space Program"
 
 <!-- links to add-ons/mods -->  
-[thread:ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-* "On Demand Fuel Cells"
-[thread:mm]:  http://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "Module Manager"
-[thread:ckan]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-* "CKAN"
-[thread:twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-* "TweakScale"
-[thread:cls]: http://forum.kerbalspaceprogram.com/index.php?showtopic=192130-* "Connected Living Space"
-[thread:rc]: http://forum.kerbalspaceprogram.com/index.php?/topic/52931-0 "RealChute"
+[ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells"
+[mm]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
+[rc]: http://forum.kerbalspaceprogram.com/index.php?/topic/52931-*/ "RealChute"
+[cls]: http://forum.kerbalspaceprogram.com/index.php?showtopic=192130-*/ "Connected Living Space"
+[twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00 "PayPal"
@@ -223,7 +235,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [BMCC:url]: https://buymeacoffee.com/zer0Kerbal "Buy Me A Snack"
 
 <!-- Localization -->
-[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/American-flag-sm.png "American English"
+[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/American-flag-sm.png "English"
 [BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Brazilian-flag-sm.png "Brasil"
 [CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Chinese-flag-sm.png "中文"
 [DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/German-flag-sm.png "Deutsch"
@@ -232,22 +244,22 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Italian-flag-sm.png "Italiano"
 [JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Japanese-flag-sm.png "日本語"
 [KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/South-Korean-flag-sm.png "한국어"
-[ME]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Mexican-flag-sm.png "Mexicano"
+[ME]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Mexican-flag-sm.png "Español Mexicano"
 [NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Dutch-flag-sm.png "Dutch"
 [NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Norwegian-flag-sm.png "Norsk"
 [PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Polish-flag-sm.png "Polski"
 [RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Russian-flag-sm.png "Русский"
 [SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Swedish-flag-sm.png "Svenska"
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Taiwanese-flag-sm.png "国语"
-[HA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Hawaii-flag-sm.png "ʻŌlelo Pākē"
 
-[LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"
-[LINK:necrobones]: https://forum.kerbalspaceprogram.com/index.php?/profile/105424-necrobones/ "NecroBones"
+[necrobones]: https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/ "NecroBones"
+[beefpatty]: https://github.com/beefpatty "beefpatty"
+[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 <!-- footnotes -->
-[^1]: ***may*** work on other versions (YMMV)
-[^2]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
-[^3]: this isn't a mod. ;P
+[^1]: this isn't a mod. ;P
+[^2]: ***may*** work on other versions (YMMV)
+[^3]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
 
 ---
 
@@ -258,6 +270,6 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
 <div style="border:0.5px solid #BADA55; background-color: #FF7E03; color: #FF0000; text-align:center"></br>
-<a href = "https://twitter.com/zer0Kerbal"><img src = "https://simpleicons.org/icons/twitter.svg" alt="zer0Kerbal | Twitter" height="5%" width="5%"></a>
-<a href = "https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw"> <img src = "https://simpleicons.org/icons/youtube.svg" alt="zer0Kerbal | YouTube" height="5%" width="5%"></a> <a href = "https://www.twitch.tv/zer0kerbal">
-  <img src = "https://simpleicons.org/icons/twitch.svg" alt="zer0Kerbal | Twitch" height="5%" width="5%"></a></br></br></div>
+<a href = "https://twitter.com/zer0Kerbal"><img src = "https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png" alt="zer0Kerbal | Twitter" height="5%" width="5%"></a>
+<a href = "https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw"> <img src = "https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" alt="zer0Kerbal | YouTube" height="5%" width="5%"></a> <a href = "https://www.twitch.tv/zer0kerbal">
+  <img src = "https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" alt="zer0Kerbal | Twitch" height="5%" width="5%"></a></br></br></div>
