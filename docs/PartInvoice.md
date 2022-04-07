@@ -1,6 +1,15 @@
 ---
-permalink: /partThumbnails.html
+permalink: /PartInvoice.html
+title: Parts Invoice
+description: Bill, what are going to do tonight? Why Jeb, the same thing we do every night, Take over the world!
+# layout: bare
+tags: parts,invoice,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK
 ---
+
+<!-- PartInvoice.md v1.1.3.1
+Lithobrake Exploration Technology (LET)
+created: 01 Feb 2022
+updated: 30 Mar 2022 -->
 
 # Lithobrake Exploration Technologies (LET)
 
@@ -22,4 +31,6 @@ This mod adds fifteen stockalike parts
 * Three service bays / rover garages.
   > <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETbay2mExp_icon.png" alt="LETbay2mExp" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETbay2mOct1_icon.png" alt="LETbay2mOct1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/GameData/NecroBones/LithobrakeExplorationTechnologies/Parts/%40thumbs/LETbay2mOct2_icon.png" alt="LETbay2mOct2" width="25%" height="25%" />
 
-<!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal>
+[top](#Parts-Invoice)
+
+<!-- this file CC BY-ND 3.0 Unported by zer0Kerbal -->
