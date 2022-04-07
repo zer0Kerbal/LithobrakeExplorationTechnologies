@@ -4,20 +4,50 @@
 | ---------- | ------------------------------------------------------------------------------ |
 | license    | CC-BY-NC-SA-4.0                                                                |
 | author     | NecroBones and zer0Kerbal                                                      |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/-*)                     |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/206860-*)               |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/LithobrakeExplorationTechnologies)   |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/LithobrakeExplorationTechnologies) |
 | spacedock  | (https://spacedock.info/mod/93)                                                |
 | ckan       | LithobrakeExplorationTechnologies                                              |
 
-# Version 0.5.1.0-prerelease - 大胆安全回归
+---
 
+# Version 0.5.1.0-release - `<No More Ghosts and 大胆安全回归>`
 
-# Localization
+* 05 Apr 2022
+* For Kerbal Space Program 1.12.3
 
-* create zh-cn.cfg
-* provide Simplified Chinese (简体中文) translation. Thank you @beefpatty https://github.com/beefpatty !
-* closed #26 - Localization - Simplified Chinese (简体中文) <zh-cn.cfg>
+## Localization
+
+* Add Simplified Chinese
+  * create <zh-cn.cfg>
+  * update docs/
+  * update documentation
+  * 🧧 Thank you [@beefpatty](https://github.com/beefpatty)!
+  * closes #26 - Localization - Simplified Chinese (简体中文) <zh-cn.cfg>
+  * updated #23 - Localization - Master
+
+## Relocated art assets
+
+* delete old art assets that stubbornly didn't move, rather they just copied
+  * closes #107 - [Bug 🐞]: Duplicated models/textures
+
+## Update
+
+* docs/
+* [readme.md]
+* [Attribution.md]
+
+### Status
+
+* Issues
+  * closes #102 - Lithobrake Exploration Technologies (LET) 0.5.1.0-release `<No More Ghosts and 大胆安全回归>`
+  * closes #103 - 0.5.1.0 Verify Legal Mumbo Jumbo
+  * closes #104 - 0.5.1.0 Update Documentation
+  * closes #105 - 0.5.1.0 Update Social Media
+  * closes #106 - [Bug 🐞]: Parts not showing up in game
+
+---
 
 # Version 0.5.0.0 - Adoption - Land Boldly and Safely Return
 
