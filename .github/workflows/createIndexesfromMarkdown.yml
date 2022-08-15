@@ -1,6 +1,6 @@
-# 1.0.2.1
+# 1.0.3.0
 # created: 05 Feb 2022
-# updated: 18 Mar 2022
+# updated: 09 Jul 2022
 # Create Indexes from Markdown
 # https://github.com/DaanV2/Markdown-Action-Create-Indexes
 
@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: DaanV2/Markdown-Action-Create-Indexes@v1.6.0
+      - uses: DaanV2/Markdown-Action-Create-Indexes@v1.7.0
         with: 
           folder: ${{github.workspace}}/docs/
 
@@ -27,8 +27,8 @@ jobs:
         continue-on-error: true
         run: |
           cd ${{github.workspace}}
-          git config --global user.email "Bot@Example.com"
-          git config --global user.name "DaanV2 Bot"
+          git config --global user.email "39887717+zer0Kerbal@users.noreply.github.com"
+          git config --global user.name "zer0Kerbal"
           git add .
           git commit -m "auto: Generated markdown indexes"
           git push
