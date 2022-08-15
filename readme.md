@@ -53,6 +53,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### See More
 
+* [Image Gallery](https://imgur.com/a/FxPp9)
 * See our [Parts Catalog][MOD:parts] for part pictures
 * For more images, see our [Marketing Slicks][MOD:markt]
 * Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
@@ -64,12 +65,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### YouTube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
 
-[![KSP Mods - Lithobrake Exploration Technologies](https://img.youtube.com/vi/Oj1etoybd7E/0.jpg)](https://www.youtube.com/watch?v=Oj1etoybd7E)
-
-
-
-  
-### [Image Gallery](https://imgur.com/a/FxPp9)
+[![KSP Mods - Lithobrake Exploration Technologies](https://img.youtube.com/vi/7WDrXsFWVg4/0.jpg)](https://www.youtube.com/watch?v=7WDrXsFWVg4)
 
 ---
 
