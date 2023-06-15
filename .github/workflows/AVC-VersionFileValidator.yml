@@ -1,5 +1,9 @@
-# v1.4.0
-# update checkout to v3
+# v1.5.1.0
+# created: 
+# updated: 27 May 2023
+# update checkout to @main
+# update checkout to @latest (3.3.0)
+# update checkout to v3.0.2
 # update AVC to v1.4
 # This is a standard workflow to validate all .version files
 # found in the root directory of the repository and any subdirectories,
@@ -20,7 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@main
         with:
           fetch-depth: 1
       - name: Validate files
