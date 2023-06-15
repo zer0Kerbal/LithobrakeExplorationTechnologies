@@ -24,7 +24,7 @@ Note: Even though you will appear to be editing the project's files, don't worry
 - [ ]  [![Français][FR]][FR] [French (Français)][FR] <fr-fr.cfg>  
 - [ ]  [![Italiano][IT]][IT] [Italian (Italiano)][IT] <it-it.cfg>  
 - [ ]  [![日本語][JA]][JA] [Japanese(日本語)][JA] <ja.cfg>  
-- [ ]  [![한국어][KO]][KO] [Korean (한국어)][KO] <ko.cfg>  
+- [ ]  [![한국어][KO]][KO] Korean (한국어)][KO] <ko.cfg>  
 - [ ]  [![Mexicano][ME]][ME] [Mexican (Mexicano)][ME] <es-mx.cfg>  
 - [ ]  [![Dutch][NL]][NL] [Dutch][NL] <nl-nl.cfg>  
 - [ ]  [![Norsk][NO]][NO] [Norwegian (Norsk)][NO] <no-no.cfg>  
