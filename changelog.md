@@ -1,10 +1,10 @@
 # Changelog
 
-| modName    | Lithobrake Exploration Technologies (LET)                                      |
+| modName    | Lithobrake Exploration Technologies (LET) by Necrobones                        |
 | ---------- | ------------------------------------------------------------------------------ |
-| license    | CC-BY-NC-SA-4.0                                                                |
+| license    | CC-BY-NC-SA-4.0+ARR                                                            |
 | author     | NecroBones and zer0Kerbal                                                      |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/206860-*)               |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/206860-*/)              |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/LithobrakeExplorationTechnologies)   |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/LithobrakeExplorationTechnologies) |
 | spacedock  | (https://spacedock.info/mod/93)                                                |
