@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/93)                                                |
 | ckan       | LithobrakeExplorationTechnologies                                              |
 
-## Version 0.5.2.0-release - `<EDITION>` edition
+## Version 0.5.2.0-release - `<Спасибо Davin Lin>` edition
 
 * 15 Aug 2022
 * For Kerbal Space Program 1.12.3
@@ -36,7 +36,7 @@
 * 05 Apr 2022
 * For Kerbal Space Program 1.12.3
 
-## Localization
+## Localization 0.5.1.0
 
 * Add Simplified Chinese
   * create <zh-cn.cfg>
@@ -46,18 +46,18 @@
   * closes #26 - Localization - Simplified Chinese (简体中文) <zh-cn.cfg>
   * updated #23 - Localization - Master
 
-## Relocated art assets
+## Relocated art assets 0.5.1.0
 
 * delete old art assets that stubbornly didn't move, rather they just copied
   * closes #107 - [Bug 🐞]: Duplicated models/textures
 
-## Update
+## Update 0.5.1.0
 
 * docs/
 * [readme.md]
 * [Attribution.md]
 
-### Status
+### Status 0.5.1.0
 
 * Issues
   * closes #102 - Lithobrake Exploration Technologies (LET) 0.5.1.0-release `<No More Ghosts and 大胆安全回归>`
@@ -68,12 +68,12 @@
 
 ---
 
-## Version 0.5.0.0 - Adoption - Land Boldly and Safely Return
+## Version 0.5.0.0-adoption - `<Land Boldly and Safely Return>`
 
 * 10 Feb 2022
 * For Kerbal Space Program 1.12.3
 
-## Update patches
+## Update patches 0.5.0.0
 
 * rename
 * add header
@@ -81,7 +81,7 @@
 * add :NEEDS
 * add :FOR
 
-## Localization
+## Localization 0.5.0.0
 
 * [en-us.cfg] Additions
   * #LETech-door-open = Doors open
@@ -93,7 +93,7 @@
   * updates #24 - Localization - English (United States) <en-us.cfg>
   * updates #23 - Localization - Master
 
-## Part config updates
+## Part config updates 0.5.0.0
 
 * closes #65 #66, #67 #68 #69 #70 #71 #72 #73 #74 #75 #76 #77 #78 #79
 * General Changes
@@ -265,7 +265,7 @@
     * Add [emissiveConstant] = 0.8
     * Add [thermalMassModifier] = 3
 
-## Part Localization
+## Part Localization 0.5.0.0
 
 * create agency
 * create /Localization/ folder
@@ -295,18 +295,18 @@
 * updates #65 #66, #67 #68 #69 #70 #71 #72 #73 #74 #75 #76 #77 #78 #79
 * updates #86 - Agent update
 
-## Update texture pointers
+## Update texture pointers 0.5.0.0
 
 * .mbm | .tga | .png -->.dds
 * updates #65 #66, #67 #68 #69 #70 #71 #72 #73 #74 #75 #76 #77 #78 #79
 
-## Relocated art assets
+## Relocated art assets 0.5.0.0
 
 * move textures and models into Assets/
 * update MODEL paths in part configs
 * updates #65 #66, #67 #68 #69 #70 #71 #72 #73 #74 #75 #76 #77 #78 #79
 
-## Part Thumbnail Images
+## Part Thumbnail Images 0.5.0.0
 
 * thumbnail images list
   * [LETladderF2m.cfg]
@@ -327,7 +327,7 @@
 * create [docs/PartThumbnails.md]
 * closes #81 - Part Thumbnail Images
 
-## Parts Missing Manufacturer
+## Parts Missing Manufacturer 0.5.0.0
 
 * [LETleg2.cfg]
 * [LETchute1m.cfg]
@@ -336,7 +336,7 @@
 * [LETbay2mExp.cfg]
   * closes #82 - Parts Missing Manufacturer
 
-## Status
+## Status 0.5.0.0
 
 * closes #8 - Release 0.5.0.0-adoption
 * closes #7 - Adoption - social media
@@ -356,7 +356,9 @@
 * closes #21
   Authored-By: @NecroBones
 
-## Version 0.3.6.0 (2016-07-12) - Tweaks.
+---
+
+## Version 0.3.6.0 (2016-07-12) - Tweaks
 
 * Added an optional experimental config for RealChute integration (for the radial chute only).
   * To enable, rename "GameData/LETech/Patches/LETech_RealChute.txt" to have "cfg" instead of "txt".
@@ -366,6 +368,8 @@
 * closes #20
   Authored-By: @NecroBones
 
+---
+
 ## Version 0.3.5.0 (2016-04-22) - Transparency fix.
 
 * Fixed the "always transparent" problem for bays in the VAB.
@@ -373,6 +377,8 @@
 * updates #9
 * closes #19
   Authored-By: @NecroBones
+
+---
 
 ## Version 0.3.4.0 (2016-04-17) - Tweaks.
 
@@ -382,12 +388,16 @@
 * updates #9
 * closes #18
 
+---
+
 ## Version 0.3.3.0 (2016-04-01) - KSP 1.1 Hotfix
 
 * Landing leg suspension systems working again. Known issue: Feet float slightly.
 * Added search tags to parts.
 * updates #9
 * closes #17
+
+---
 
 ## Version 0.3.2.0 (2016-03-29) - KSP 1.1 Hotfix
 
@@ -396,12 +406,16 @@
 * updates #9
 * closes #16
 
+---
+
 ## Version 0.3.1 (2016-01-11) - Tweaks.
 
 * X3 lander can mass increased.
 * Mass, fuel capacity, and cost increased for the "large" variant of the lander cargo bay.
 * updates #9
 * closes #22
+
+---
 
 ## Version 0.3 (2015-11-11) - KSP 1.0.5 update.
 
@@ -414,6 +428,8 @@
 * updates #9
 * closes #15
 
+---
+
 ## Version 0.2.1 (2015-08-05) - Alpha fixes.
 
 * Fixed a texture problem that resulted in the 1m and 2m fixed ladders not loading textures.
@@ -425,6 +441,8 @@
 * updates #9
 * closes #14
 
+---
+
 ## Version 0.2.0.0 (2015-08-03) - Wide Alpha
 
 * Added 3 large parachutes: 1.25m & 2.5m stackable nose cones, and a large radial chute.
@@ -434,8 +452,12 @@
 * updates #9
 * closes #13
 
+---
+
 ## Version 0.1.0.0 (2015-07-08) - Initial Alpha
 
 * First release.
 * updates #9
 * closes #12
+
+---
