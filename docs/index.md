@@ -8,6 +8,6 @@
 - [404](404.md)
 - [Attributions](Attributions.md)
 - [LegalMumboJumbo](LegalMumboJumbo.md)
+- [Localizations](Localizations.md)
 - [ManualInstallation](ManualInstallation.md)
-- [PartInvoice](PartInvoice.md)
-- [localizations](localizations.md)
+- [PartCatalog](PartCatalog.md)
