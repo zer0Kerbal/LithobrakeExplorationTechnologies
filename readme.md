@@ -60,7 +60,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 ### Localization
 
 >* ![English](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png) English
->* ![Simplified Chinese (简体中文)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/CH.png) Simplified Chinese (简体中文) - 谢谢 [beefpatty](https://github.com/beefpatty)
+>* ![Simplified Chinese (简体中文)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/CH.png) Simplified Chinese (简体中文) - xièxiè (谢谢) [beefpatty](https://github.com/beefpatty)
 >* ![Russian( Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian( Русский) -  спасибо [Davian Lin](https://github.com/DavianLin)
 >* ***your translation here***
 
