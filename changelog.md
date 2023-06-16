@@ -34,8 +34,12 @@
     * [quickstart-ru.md] v1.0.0.0
     * Спасибо [evanisrael](https://github/evanisrael)
 * Update
-  * [ru.cfg] v1.0.1.0
+  * [readme.md] v2.1.2.1
+  * [quickstart.md] v1.0.2.0
   * add header, give credit
+    * [ru.cfg] v1.0.1.0
+    * [en-us.cfg] v1.0.1.0
+    * [zh-cn.cfg] v1.0.1.0
 
 #### Documentation 0.5.2.0
 
