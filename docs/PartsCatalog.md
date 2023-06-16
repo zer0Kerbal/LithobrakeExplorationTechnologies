@@ -83,8 +83,6 @@ This mod adds fifteen stockalike parts
 
 [top](#parts-catalog)
 
-<!-- this file CC BY-ND 3.0 Unported by zer0Kerbal -->
-
 THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
   used with express permission from zer0Kerbal
 
