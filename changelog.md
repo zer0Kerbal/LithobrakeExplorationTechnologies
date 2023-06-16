@@ -10,15 +10,12 @@
 | spacedock  | (https://spacedock.info/mod/93)                                                |
 | ckan       | LithobrakeExplorationTechnologies                                              |
 
----
-
 ## Version 0.5.2.0-release - `<EDITION>` edition
 
 * 15 Aug 2022
 * For Kerbal Space Program 1.12.3
 
 ### Summary 0.5.2.0
-
 
 ### Compatibility 0.5.2.0
 
@@ -45,7 +42,7 @@
   * create <zh-cn.cfg>
   * update docs/
   * update documentation
-  * 🧧 Thank you [@beefpatty](https://github.com/beefpatty)!
+  * 🧧 谢谢 [beefpatty](https://github.com/beefpatty)
   * closes #26 - Localization - Simplified Chinese (简体中文) <zh-cn.cfg>
   * updated #23 - Localization - Master
 
