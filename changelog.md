@@ -42,7 +42,7 @@
   * create <zh-cn.cfg>
   * update docs/
   * update documentation
-  * 🧧 谢谢 [beefpatty](https://github.com/beefpatty)
+  * 🧧 xièxiè (谢谢) [beefpatty](https://github.com/beefpatty)
   * closes #26 - Localization - Simplified Chinese (简体中文) <zh-cn.cfg>
   * updated #23 - Localization - Master
 
