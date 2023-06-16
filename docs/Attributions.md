@@ -6,15 +6,17 @@ tags: thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!--
-Attributions.md v1.0.4.0
-LithobrakeExplorationTechnologies (LET)
+Attributions.md v1.0.3.0
+Lithobrake Exploration Technology (LET)
 created: 01 Feb 2022
-updated: 27 Mar 2022
+updated: 15 Jun 2023
 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
-# LithobrakeExplorationTechnologies (LET)
+
+## [Lithobrake Exploration Technology (LET)][mod]
+
 [Home](./index.md)
 
 ## Attribution
@@ -48,12 +50,8 @@ updated: 27 Mar 2022
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/66411-zelda/"><img alt="Zelda" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2019_07/LoZ_RGB_960x960.thumb.jpg.32a815400e819b11482764bdea71373c.jpg" width="50" height="50" > Zelda</a></li>
 </ul>
 
-[LET]: https://forum.kerbalspaceprogram.com/threads/206860-*/ "LithobrakeExplorationTechnologies"
 
-[necrobones]: https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/ "NecroBones"
-[cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard"
-[beefpatty]: https://github.com/beefpatty "beefpatty"
-[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
 
-https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_11_2015/avatar_96x96.gif.787b9a3478ccb83beb330a550f437d88.thumb.gif.5afcf23f2446f3774eeeeca98687261b.gif
-<!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal -->
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/LithobrakeExplorationTechnology "Lithobrake Exploration Technology (LET)"
