@@ -12,6 +12,42 @@
 
 ## Version 0.5.2.0-release - `<Спасибо Davin Lin>` edition
 
+* Released
+  * 25 May 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 0.5.2.0
+
+* Localize
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+  * Спасибо [DavianLin](https://github/DavianLin)
+
+#### Localization 0.5.2.0
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [DavianLin](https://github/DavianLin)
+  Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+* Update
+  * [ru.cfg] v1.0.1.0
+  * add header, give credit
+
+#### Documentation 0.5.2.0
+
+* Update
+  * [readme.md] v0.5.2.0
+  * [Attributions.md] v1.0.8.0
+  * [Localizations.md] v1.0.8.0
+
+---
+
+## Version 0.5.2.0-release - `<Спасибо Davin Lin>` edition
+
 * 15 Aug 2022
 * For Kerbal Space Program 1.12.3
 
