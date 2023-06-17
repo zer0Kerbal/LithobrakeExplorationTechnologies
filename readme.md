@@ -127,7 +127,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 * [SimpleConstruction! (SCON)](https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction)
 * [SimpleLogistics! (SLOG)](https://www.curseforge.com/kerbal/ksp-mods/SimpleLogistics)
 * [SimpleNotes! (NOTE)](https://www.curseforge.com/kerbal/ksp-mods/Notes)
-* [Stock Inline Lights (SIL)](https://www.curseforge.com/kerbal/ksp-mods/StackInlineLights)
+* [Stack Inline Lights (SIL)](https://www.curseforge.com/kerbal/ksp-mods/StackInlineLights)
 * [Foundations (FND)](https://www.curseforge.com/kerbal/ksp-mods/Foundations) ***Helps prevent ground constructions from floating away***
 * [LanderTek (LTK)](https://www.curseforge.com/kerbal/ksp-mods/Dreamer)
 * [Kerbals of All Trades (KOAT)](https://www.curseforge.com/kerbal/ksp-mods/KerbalsofAllTradesS)
