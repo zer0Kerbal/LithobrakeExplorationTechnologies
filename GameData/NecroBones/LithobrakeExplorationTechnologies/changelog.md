@@ -24,7 +24,7 @@
 
 * Localize
   * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
-  * Спасибо [DavianLin](https://github/DavianLin)
+  * Спасибо [DavianLin](https://github.com/DavianLin)
   * lint, organize, update
   * can now search for `let`, `letech` and `lithobrake` in editors to see all these parts
   * Fix [RealChute.cfg], should have seen the dentist before flight!
@@ -61,7 +61,7 @@
 * Add
   * Russian (Русский)
     * [ru.cfg] v1.0.0.0
-    * Спасибо [DavianLin](https://github/DavianLin)
+    * Спасибо [DavianLin](https://github.com/DavianLin)
   Translation guides
     * [readme-ru.md] v1.0.1.0
     * [quickstart-ru.md] v1.0.0.0
