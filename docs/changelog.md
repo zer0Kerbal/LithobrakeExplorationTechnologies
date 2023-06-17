@@ -26,7 +26,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * 📌 Pinned
   * can now search for `let`, `letech` and `lithobrake` in editors to see all these parts
 
-## Version 0.5.2.0-release - `<Спасибо Davin Lin>` edition
+## Version 0.5.2.0-release - `<Спасибо Davian Lin>` edition
 
 * Released
   * 16 Jun 2023
@@ -99,7 +99,7 @@ CC BY-ND 4.0 by zer0Kerbal
 ### Status 0.5.2.0
 
 * Issues
-  * closes #111 - Lithobrake Exploration Technologies (LET) 0.5.2.0-release `<Спасибо Davin Lin>` edition
+  * closes #111 - Lithobrake Exploration Technologies (LET) 0.5.2.0-release `<Спасибо Davian Lin>` edition
   * closes #112 - 0.5.2.0 Verify Legal Mumbo Jumbo
   * closes #113 - 0.5.2.0 Update Documentation
   * closes #114 - 0.5.2.0 Update Social Media
