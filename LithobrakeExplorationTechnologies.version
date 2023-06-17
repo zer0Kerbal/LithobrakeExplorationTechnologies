@@ -1,5 +1,5 @@
 {
-	"NAME"		     : "Lithobrake Exploration Technologies (LET)",
+	"NAME"		     : "Lithobrake Exploration Technologies (LET) by NecroBones",
 	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/LithobrakeExplorationTechnologies.version",
 	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/releases/latest",
 	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/changelog.md",
@@ -13,20 +13,20 @@
 	{
 		"MAJOR" : 0,
 		"MINOR" : 5,
-		"PATCH" : 1,
+		"PATCH" : 2,
 		"BUILD" : 0
 	},
 	"KSP_VERSION" :
 	{
 		"MAJOR" : 1,
 		"MINOR" : 12,
-		"PATCH" : 3
+		"PATCH" : 5
 	},
 	"KSP_VERSION_MIN" :
 	{
 		"MAJOR" : 1,
-		"MINOR" : 0,
-		"PATCH" : 0
+		"MINOR" : 3,
+		"PATCH" : 1
 	},
 	"INSTALL_LOC" :
 	{

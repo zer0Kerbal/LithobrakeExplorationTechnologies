@@ -1,44 +1,125 @@
 # Changelog
 
-| modName    | Lithobrake Exploration Technologies (LET)                                      |
+| modName    | Lithobrake Exploration Technologies (LET) by Necrobones                        |
 | ---------- | ------------------------------------------------------------------------------ |
-| license    | CC-BY-NC-SA-4.0                                                                |
+| license    | CC-BY-NC-SA-4.0+ARR                                                            |
 | author     | NecroBones and zer0Kerbal                                                      |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/206860-*)               |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/206860-*/)              |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/LithobrakeExplorationTechnologies)   |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/LithobrakeExplorationTechnologies) |
 | spacedock  | (https://spacedock.info/mod/93)                                                |
 | ckan       | LithobrakeExplorationTechnologies                                              |
 
+* 📌 Pinned
+  * can now search for `let`, `letech` and `lithobrake` in editors to see all these parts
+
+## Version 0.5.2.0-release - `<Спасибо Davian Lin>` edition
+
+* Released
+  * 16 Jun 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 0.5.2.0
+
+* Localize
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+  * Спасибо [DavianLin](https://github/DavianLin)
+  * lint, organize, update
+  * can now search for `let`, `letech` and `lithobrake` in editors to see all these parts
+  * Fix [RealChute.cfg], should have seen the dentist before flight!
+
+### Changes 0.5.2.0
+
+#### Assets 0.5.2.0
+
+* lint and organize
+* Update texture pointers from .mbm/tga/pna to .dds
+
+#### Parts 0.5.2.0
+
+* lint and organize
+* Add headers
+* Update tags
+
+### Compatibility 0.5.2.0
+
+* Fix
+  * [RealChute.cfg] 1.0.2.0
+  * missing braces, should have seen the dentist before flight!
+    * !sound_parachute_open {}
+    * !sound_parachute_single {}
+
+#### Config 0.5.2.0
+
+* Add
+  * allows for searching editors with `let`
+  * [LithobrakeExplorationTechnologies.cfg] v1.0.0.0
+
+#### Localization 0.5.2.0
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [DavianLin](https://github/DavianLin)
+  Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+* Update
+  * [readme.md] v2.1.2.1
+  * [quickstart.md] v1.0.2.0
+  * add header, give credit, organize, and scrape stock dictionary
+    * [ru.cfg] v1.0.1.0
+    * [en-us.cfg] v1.0.1.0
+    * [zh-cn.cfg] v1.0.1.0
+* closes #28 - Localization - Russian (Русский) <ru.cfg>
+* updates #23 - Localization - Master
+
+#### Documentation 0.5.2.0
+
+* Update
+  * [readme.md] v0.5.2.0
+  * [Attributions.md] v1.0.8.0
+  * [Localizations.md] v1.0.8.0
+
+### Status 0.5.2.0
+
+* Issues
+  * closes #111 - Lithobrake Exploration Technologies (LET) 0.5.2.0-release `<Спасибо Davian Lin>` edition
+  * closes #112 - 0.5.2.0 Verify Legal Mumbo Jumbo
+  * closes #113 - 0.5.2.0 Update Documentation
+  * closes #114 - 0.5.2.0 Update Social Media
+
 ---
 
-# Version 0.5.1.0-release - `<No More Ghosts and 大胆安全回归>`
+## Version 0.5.1.0-release - `<No More Ghosts and 大胆安全回归>`
 
 * 05 Apr 2022
 * For Kerbal Space Program 1.12.3
 
-## Localization
+## Localization 0.5.1.0
 
 * Add Simplified Chinese
   * create <zh-cn.cfg>
   * update docs/
   * update documentation
-  * 🧧 Thank you [@beefpatty](https://github.com/beefpatty)!
+  * 🧧 xièxiè (谢谢) [beefpatty](https://github.com/beefpatty)
   * closes #26 - Localization - Simplified Chinese (简体中文) <zh-cn.cfg>
   * updated #23 - Localization - Master
 
-## Relocated art assets
+## Relocated art assets 0.5.1.0
 
 * delete old art assets that stubbornly didn't move, rather they just copied
   * closes #107 - [Bug 🐞]: Duplicated models/textures
 
-## Update
+## Update 0.5.1.0
 
 * docs/
 * [readme.md]
 * [Attribution.md]
 
-### Status
+### Status 0.5.1.0
 
 * Issues
   * closes #102 - Lithobrake Exploration Technologies (LET) 0.5.1.0-release `<No More Ghosts and 大胆安全回归>`
@@ -49,12 +130,12 @@
 
 ---
 
-# Version 0.5.0.0 - Adoption - Land Boldly and Safely Return
+## Version 0.5.0.0-adoption - `<Land Boldly and Safely Return>`
 
 * 10 Feb 2022
 * For Kerbal Space Program 1.12.3
 
-## Update patches
+## Update patches 0.5.0.0
 
 * rename
 * add header
@@ -62,19 +143,19 @@
 * add :NEEDS
 * add :FOR
 
-## Localization
+## Localization 0.5.0.0
 
 * [en-us.cfg] Additions
-  * #LETech-door-open = Doors open
-  * #LETech-door-clos = Doors close
-  * #LETech-door-togl = Door toggl
-  * #LETech-light-open = Lights on
-  * #LETech-light-on = Lights off
-  * #LETech-light-off = Lights toggle
+  * #LET-door-open = Doors open
+  * #LET-door-clos = Doors close
+  * #LET-door-togl = Door toggl
+  * #LET-light-open = Lights on
+  * #LET-light-on = Lights off
+  * #LET-light-off = Lights toggle
   * updates #24 - Localization - English (United States) <en-us.cfg>
   * updates #23 - Localization - Master
 
-## Part config updates
+## Part config updates 0.5.0.0
 
 * closes #65 #66, #67 #68 #69 #70 #71 #72 #73 #74 #75 #76 #77 #78 #79
 * General Changes
@@ -246,7 +327,7 @@
     * Add [emissiveConstant] = 0.8
     * Add [thermalMassModifier] = 3
 
-## Part Localization
+## Part Localization 0.5.0.0
 
 * create agency
 * create /Localization/ folder
@@ -276,18 +357,18 @@
 * updates #65 #66, #67 #68 #69 #70 #71 #72 #73 #74 #75 #76 #77 #78 #79
 * updates #86 - Agent update
 
-## Update texture pointers
+## Update texture pointers 0.5.0.0
 
 * .mbm | .tga | .png -->.dds
 * updates #65 #66, #67 #68 #69 #70 #71 #72 #73 #74 #75 #76 #77 #78 #79
 
-## Relocated art assets
+## Relocated art assets 0.5.0.0
 
 * move textures and models into Assets/
 * update MODEL paths in part configs
 * updates #65 #66, #67 #68 #69 #70 #71 #72 #73 #74 #75 #76 #77 #78 #79
 
-## Part Thumbnail Images
+## Part Thumbnail Images 0.5.0.0
 
 * thumbnail images list
   * [LETladderF2m.cfg]
@@ -308,7 +389,7 @@
 * create [docs/PartThumbnails.md]
 * closes #81 - Part Thumbnail Images
 
-## Parts Missing Manufacturer
+## Parts Missing Manufacturer 0.5.0.0
 
 * [LETleg2.cfg]
 * [LETchute1m.cfg]
@@ -317,7 +398,7 @@
 * [LETbay2mExp.cfg]
   * closes #82 - Parts Missing Manufacturer
 
-## Status
+## Status 0.5.0.0
 
 * closes #8 - Release 0.5.0.0-adoption
 * closes #7 - Adoption - social media
@@ -328,7 +409,7 @@
 
 ---
 
-# Version 0.4.0.0 (2016-10-12) - KSP 1.2 Update.
+## Version 0.4.0.0 (2016-10-12) - KSP 1.2 Update.
 
 * Updated categories for many parts.
 * Added KSP 1.2 sound effects and additional variables for landing legs.
@@ -337,7 +418,9 @@
 * closes #21
   Authored-By: @NecroBones
 
-# Version 0.3.6.0 (2016-07-12) - Tweaks.
+---
+
+## Version 0.3.6.0 (2016-07-12) - Tweaks
 
 * Added an optional experimental config for RealChute integration (for the radial chute only).
   * To enable, rename "GameData/LETech/Patches/LETech_RealChute.txt" to have "cfg" instead of "txt".
@@ -347,7 +430,9 @@
 * closes #20
   Authored-By: @NecroBones
 
-# Version 0.3.5.0 (2016-04-22) - Transparency fix.
+---
+
+## Version 0.3.5.0 (2016-04-22) - Transparency fix.
 
 * Fixed the "always transparent" problem for bays in the VAB.
 * Adjusted the "expanded" 2.5m bay to use transparency only on the doors.
@@ -355,7 +440,9 @@
 * closes #19
   Authored-By: @NecroBones
 
-# Version 0.3.4.0 (2016-04-17) - Tweaks.
+---
+
+## Version 0.3.4.0 (2016-04-17) - Tweaks.
 
 * Tweaked leg settings.
 * Moved leg wheel colliders to allow for more accurate aerodynamic occlusion.
@@ -363,28 +450,36 @@
 * updates #9
 * closes #18
 
-# Version 0.3.3.0 (2016-04-01) - KSP 1.1 Hotfix
+---
+
+## Version 0.3.3.0 (2016-04-01) - KSP 1.1 Hotfix
 
 * Landing leg suspension systems working again. Known issue: Feet float slightly.
 * Added search tags to parts.
 * updates #9
 * closes #17
 
-# Version 0.3.2.0 (2016-03-29) - KSP 1.1 Hotfix
+---
+
+## Version 0.3.2.0 (2016-03-29) - KSP 1.1 Hotfix
 
 * Landing legs updated to not be 100% deadly. Suspension still doesn't work, legs are rigid for now.
 * Moved MM configs to "Patches" folder.
 * updates #9
 * closes #16
 
-# Version 0.3.1 (2016-01-11) - Tweaks.
+---
+
+## Version 0.3.1 (2016-01-11) - Tweaks.
 
 * X3 lander can mass increased.
 * Mass, fuel capacity, and cost increased for the "large" variant of the lander cargo bay.
 * updates #9
 * closes #22
 
-# Version 0.3 (2015-11-11) - KSP 1.0.5 update.
+---
+
+## Version 0.3 (2015-11-11) - KSP 1.0.5 update.
 
 * Switched the 4-man capsule's "generic" IVA over to use the Mk3 shuttle's IVA instead, so that all 4 Kerbals are EVA/IVA selectable.
 * Moved "CHANGELOG" to the mod's directory.
@@ -395,7 +490,9 @@
 * updates #9
 * closes #15
 
-# Version 0.2.1 (2015-08-05) - Alpha fixes.
+---
+
+## Version 0.2.1 (2015-08-05) - Alpha fixes.
 
 * Fixed a texture problem that resulted in the 1m and 2m fixed ladders not loading textures.
 * Fixed a scaling error with the "large" octagonal bay's doors, causing it to leave gaps when closed.
@@ -406,7 +503,9 @@
 * updates #9
 * closes #14
 
-# Version 0.2.0.0 (2015-08-03) - Wide Alpha
+---
+
+## Version 0.2.0.0 (2015-08-03) - Wide Alpha
 
 * Added 3 large parachutes: 1.25m & 2.5m stackable nose cones, and a large radial chute.
 * Added 4-man, 2.5m capsule-style command pod.
@@ -415,8 +514,12 @@
 * updates #9
 * closes #13
 
-# Version 0.1.0.0 (2015-07-08) - Initial Alpha
+---
+
+## Version 0.1.0.0 (2015-07-08) - Initial Alpha
 
 * First release.
 * updates #9
 * closes #12
+
+---
