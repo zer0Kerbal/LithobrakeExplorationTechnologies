@@ -10,10 +10,13 @@
 | spacedock  | (https://spacedock.info/mod/93)                                                |
 | ckan       | LithobrakeExplorationTechnologies                                              |
 
+* 📌 Pinned
+  * can now search for `let`, `letech` and `lithobrake` in editors to see all these parts
+
 ## Version 0.5.2.0-release - `<Спасибо Davin Lin>` edition
 
 * Released
-  * 25 May 2023
+  * 16 Jun 2023
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
@@ -22,6 +25,36 @@
 * Localize
   * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
   * Спасибо [DavianLin](https://github/DavianLin)
+  * lint, organize, update
+  * can now search for `let`, `letech` and `lithobrake` in editors to see all these parts
+  * Fix [RealChute.cfg], should have seen the dentist before flight!
+
+### Changes 0.5.2.0
+
+#### Assets 0.5.2.0
+
+* lint and organize
+* Update texture pointers from .mbm/tga/pna to .dds
+
+#### Parts 0.5.2.0
+
+* lint and organize
+* Add headers
+* Update tags
+
+### Compatibility 0.5.2.0
+
+* Fix
+  * [RealChute.cfg] 1.0.2.0
+  * missing braces, should have seen the dentist before flight!
+    * !sound_parachute_open {}
+    * !sound_parachute_single {}
+
+#### Config 0.5.2.0
+
+* Add
+  * allows for searching editors with `let`
+  * [LithobrakeExplorationTechnologies.cfg] v1.0.0.0
 
 #### Localization 0.5.2.0
 
@@ -36,10 +69,12 @@
 * Update
   * [readme.md] v2.1.2.1
   * [quickstart.md] v1.0.2.0
-  * add header, give credit
+  * add header, give credit, organize, and scrape stock dictionary
     * [ru.cfg] v1.0.1.0
     * [en-us.cfg] v1.0.1.0
     * [zh-cn.cfg] v1.0.1.0
+* closes #28 - Localization - Russian (Русский) <ru.cfg>
+* updates #23 - Localization - Master
 
 #### Documentation 0.5.2.0
 
@@ -48,26 +83,13 @@
   * [Attributions.md] v1.0.8.0
   * [Localizations.md] v1.0.8.0
 
----
-
-## Version 0.5.2.0-release - `<Спасибо Davin Lin>` edition
-
-* 15 Aug 2022
-* For Kerbal Space Program 1.12.3
-
-### Summary 0.5.2.0
-
-### Compatibility 0.5.2.0
-
-* Fix
-  * [RealChute.cfg] 1.0.2.0
-  * missing braces, should have seen the dentist before flight!
-    * !sound_parachute_open {}
-    * !sound_parachute_single {}
-
 ### Status 0.5.2.0
 
 * Issues
+  * closes #111 - Lithobrake Exploration Technologies (LET) 0.5.2.0-release `<Спасибо Davin Lin>` edition
+  * closes #112 - 0.5.2.0 Verify Legal Mumbo Jumbo
+  * closes #113 - 0.5.2.0 Update Documentation
+  * closes #114 - 0.5.2.0 Update Social Media
 
 ---
 
@@ -124,12 +146,12 @@
 ## Localization 0.5.0.0
 
 * [en-us.cfg] Additions
-  * #LETech-door-open = Doors open
-  * #LETech-door-clos = Doors close
-  * #LETech-door-togl = Door toggl
-  * #LETech-light-open = Lights on
-  * #LETech-light-on = Lights off
-  * #LETech-light-off = Lights toggle
+  * #LET-door-open = Doors open
+  * #LET-door-clos = Doors close
+  * #LET-door-togl = Door toggl
+  * #LET-light-open = Lights on
+  * #LET-light-on = Lights off
+  * #LET-light-off = Lights toggle
   * updates #24 - Localization - English (United States) <en-us.cfg>
   * updates #23 - Localization - Master
 
